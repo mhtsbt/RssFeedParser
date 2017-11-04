@@ -5,3 +5,9 @@ dotnet: 2.0.0
 dist: trusty
 script:
  - dotnet restore
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: chmod +x ./deploy.sh && ./deploy.sh $NUGET_API_KEY $NUGET_SOURCE
+  on:
+    branch: release
