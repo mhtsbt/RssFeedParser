@@ -4,7 +4,7 @@ mono: none
 dotnet: 2.0.0
 dist: trusty
 script:
- - dotnet restore
+ - dotnet test
 deploy:
   skip_cleanup: true
   provider: script
