@@ -2,6 +2,8 @@
 using System.IO;
 using System.Net.Http;
 using Xunit;
+using System;
+using System.Xml;
 
 namespace RssFeedParser.Test
 {
@@ -9,6 +11,24 @@ namespace RssFeedParser.Test
     {
         public FeedParserTest()
         {
+        }
+
+        [Fact]
+        public void TestMashableFeed()
+        {
+
+            var contents = File.ReadAllText(Path.Combine("ExampleFeeds","Mashable1.xml"));
+
+            
+            XmlDocument doc = new XmlDocument();
+            doc.LoadXml(contents);
+
+            var rssFeedParser = new FeedParser();
+            RssFeed feed = rssFeedParser.ParseFeed(doc);
+
+            System.Console.WriteLine(feed.Articles.Count);
+
+
         }
 
         [Fact]
