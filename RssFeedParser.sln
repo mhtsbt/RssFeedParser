@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RssFeedParser", "RssFeedParser\RssFeedParser.csproj", "{0290FAA1-A1B0-4E24-8697-ECCC396D6E0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RssFeedParser", "RssFeedParser\RssFeedParser.csproj", "{0290FAA1-A1B0-4E24-8697-ECCC396D6E0F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E765A0A3-D4B7-42E1-AE95-1A72BDA201E4}"
 	ProjectSection(SolutionItems) = preProject
 		.travis.yml = .travis.yml
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RssFeedParser.Test", "RssFeedParser.Test\RssFeedParser.Test.csproj", "{6E16B12C-5795-424C-89DE-5356BF11D882}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0290FAA1-A1B0-4E24-8697-ECCC396D6E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0290FAA1-A1B0-4E24-8697-ECCC396D6E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0290FAA1-A1B0-4E24-8697-ECCC396D6E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E16B12C-5795-424C-89DE-5356BF11D882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E16B12C-5795-424C-89DE-5356BF11D882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E16B12C-5795-424C-89DE-5356BF11D882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E16B12C-5795-424C-89DE-5356BF11D882}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
