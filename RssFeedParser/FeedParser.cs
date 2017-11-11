@@ -87,10 +87,21 @@ namespace RssFeedParser
             else
             */
 
+            if (item.Element("thumbnail") != null)
+            {
+                newArticle.Image = item.Element("thumbnail").Value;
+            }
+
             if (item.Element("description") != null)
             {
+
                 newArticle.Content = item.Element("description").Value;
-                newArticle.Image = FindThumbnailForArticle(newArticle.Content);
+
+                if (string.IsNullOrEmpty(newArticle.Image))
+                {
+                    newArticle.Image = FindThumbnailForArticle(newArticle.Content);
+                }
+
             }
 
             if (item.Element("link") != null)
