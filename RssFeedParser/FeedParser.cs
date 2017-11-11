@@ -145,7 +145,7 @@ namespace RssFeedParser
 
         private string FindThumbnailForArticle(string description)
         {
-            Regex regex = new Regex(@"(?<Protocol>\w+):\/\/(?<Domain>[\w@][\w.:@]+)\/?[\w\.?=%&=\-@/$,]*");
+            Regex regex = new Regex(@"(?<Protocol>\w+):\/\/(?<Domain>[\w@][\w.:@]+)\/?[\w\.:()?=%&=\-@/$,]*");
             Match match = regex.Match(description);
 
             return match.Value;

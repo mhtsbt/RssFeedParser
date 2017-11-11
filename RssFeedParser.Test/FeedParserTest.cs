@@ -27,7 +27,14 @@ namespace RssFeedParser.Test
 
             Assert.Equal(feed.Articles.Count, 30);
 
-            Console.WriteLine(feed.Articles.Count);
+            foreach (var article in feed.Articles)
+            {
+                Assert.NotNull(article.Image);
+
+                var path = new Uri(article.Image);
+                Assert.True(Path.HasExtension(path.AbsoluteUri));
+            }
+
         }
 
         [Fact]
