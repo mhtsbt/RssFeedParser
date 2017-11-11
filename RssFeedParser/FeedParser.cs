@@ -87,9 +87,11 @@ namespace RssFeedParser
             else
             */
 
-            if (item.Element("thumbnail") != null)
+            XNamespace dc = "http://search.yahoo.com/mrss/";
+
+            if (item.Element(dc + "thumbnail") != null && item.Element(dc + "thumbnail").Attribute("url") != null)
             {
-                newArticle.Image = item.Element("thumbnail").Value;
+                newArticle.Image = item.Element(dc + "thumbnail").Attribute("url").Value;
             }
 
             if (item.Element("description") != null)

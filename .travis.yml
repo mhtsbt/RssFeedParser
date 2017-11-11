@@ -8,7 +8,6 @@ addons:
     organization: "mhtsbt-github"
 script:
  - chmod +x ./build.sh && ./build.sh
- - sonar-scanner
 deploy:
   skip_cleanup: true
   provider: script
