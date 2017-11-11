@@ -9,6 +9,9 @@
   </ItemGroup>
 
   <ItemGroup>
+  <None Update="ExampleFeeds\CNET1.xml">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </None>
   <None Update="ExampleFeeds\Mashable1.xml" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 

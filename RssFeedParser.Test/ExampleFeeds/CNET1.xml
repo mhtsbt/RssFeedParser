@@ -1,0 +1,242 @@
+﻿<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <atom:link href="http://feed.cnet.com/feed/all" rel="self" type="application/rss+xml" />
+        <title>CNET</title>
+        <description>The latest tech news, product reviews, videos, and how tos from CNET.</description>
+        <image>
+            <url>http://i.i.cbsi.com/cnwk.1d/i/ne/gr/prtnr/CNET_Logo_150.gif</url>
+            <title>CNET</title>
+            <link>
+                <![CDATA[ https://www.cnet.com/#ftag=CADf328eec ]]>
+            </link>
+        </image>
+        <link>
+            <![CDATA[ https://www.cnet.com/#ftag=CADf328eec ]]>
+        </link>
+        <item>
+            <title>I raced Lego drivers in VR on a roller coaster     - CNET</title>
+            <link>https://www.cnet.com/news/i-raced-lego-characters-in-vr-on-a-roller-coaster/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">19a56684-7c2c-4782-9475-a4df104c27fd</guid>
+            <pubDate>Sat, 11 Nov 2017 11:00:11 +0000</pubDate>
+            <description>Legoland Malaysia is the first resort to offer a VR roller coaster experience meant for children.</description>
+            <media:thumbnail url="https://cnet2.cbsistatic.com/img/FFlv9BwCe9KU4ZCvYDEafDfuMFE=/300x230/2017/11/08/310b33e5-204f-4632-9807-2fa18d14f923/great-lego-race-legoland-msia.jpg"/>
+            <dc:creator>Zoey Chong</dc:creator>
+        </item>
+        <item>
+            <title>Ember&#039;s new smart coffee mug is hot stuff video     - CNET</title>
+            <link>https://www.cnet.com/videos/embers-new-smart-coffee-mug-is-hot-stuff/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">aad84c5f-a484-4da3-976b-03df91b16923</guid>
+            <pubDate>Thu, 09 Nov 2017 05:01:15 +0000</pubDate>
+            <description>The Temperature Control Ceramic Mug keeps hot liquids hot -- you set the precise temperature on your phone.</description>
+            <media:thumbnail url="https://cnet1.cbsistatic.com/img/KkFCpt4vzDmJxGQeVtvIoC9zckI=/300x230/2017/11/08/b38725bc-bba8-40b4-815e-4227e7bda279/embermug.jpg"/>
+            <dc:creator>David Carnoy</dc:creator>
+        </item>
+        <item>
+            <title>Dell XPS 13&#039;s power boost from Intel&#039;s 8th-gen CPU is real video     - CNET</title>
+            <link>https://www.cnet.com/videos/dell-xps-13s-power-boost-from-intels-8th-gen-cpu-is-real/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">0990e6d5-5391-46a2-b849-5a94e283b5bc</guid>
+            <pubDate>Thu, 09 Nov 2017 03:22:09 +0000</pubDate>
+            <description>It&#039;s still the world&#039;s smallest 13.3-inch laptop, but Intel&#039;s latest processors deliver far better performance.</description>
+            <media:thumbnail url="https://cnet3.cbsistatic.com/img/ZqCAwZ0zdjecc2UDMPpnzfE69Eg=/300x230/2017/11/08/89982aff-fe1c-4177-a59d-5903da871ed2/fl-dell-xps-13.jpg"/>
+            <dc:creator>Joshua Goldman</dc:creator>
+        </item>
+        <item>
+            <title>What to play this weekend: Doom, Need for Speed, Horizon     - CNET</title>
+            <link>https://www.cnet.com/news/new-game-releases-november-6-november-12/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">f1becc08-f954-4394-9f50-cd52b6f28f2e</guid>
+            <pubDate>Sat, 11 Nov 2017 07:53:48 +0000</pubDate>
+            <description>This week&#039;s theme: Old games, but better.</description>
+            <media:thumbnail url="https://cnet1.cbsistatic.com/img/LGFBum_Q7s8ZZ0M3iGKVsJh0pBA=/300x230/2017/11/10/0320025c-a76f-4ba8-845f-fa516543b4d9/3290766-gameplay-doom-switch.jpg"/>
+            <dc:creator>Sean Hollister</dc:creator>
+        </item>
+        <item>
+            <title>Watch molten lava melt a GoPro camera as it keeps filming     - CNET</title>
+            <link>https://www.cnet.com/news/molten-lava-consumes-gopro-camera-hawaii-kilauea-volcano-erik-storm/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">2a8c42cd-8e4c-47a7-9526-27c03a6a9cbe</guid>
+            <pubDate>Sat, 11 Nov 2017 00:16:23 +0000</pubDate>
+            <description>Hawaiian tour guide Erik Storm shares stunning video and stills of his fiery volcanic accident-gone-viral.</description>
+            <media:thumbnail url="https://cnet2.cbsistatic.com/img/auZfaZvXNmOSlTa3KtY21Ca-S4o=/300x230/2017/11/10/47cda88f-6096-46be-b611-bb3775f99058/lavaattackscamera.jpg"/>
+            <dc:creator>Gael Fashingbauer Cooper</dc:creator>
+        </item>
+        <item>
+            <title>Molten lava overtakes a GoPro video     - CNET</title>
+            <link>https://www.cnet.com/videos/lava-overtakes-a-gopro/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">6d9500f2-ac38-44db-b529-b70b4f195f02</guid>
+            <pubDate>Fri, 10 Nov 2017 23:49:34 +0000</pubDate>
+            <description>This is what happens when a photographer drops his GoPro camera in the path of molten lava.</description>
+            <media:thumbnail url="https://cnet2.cbsistatic.com/img/u1s3RUwyOzDzSgJrS7SxiGiHrVY=/300x230/2017/11/10/ac7ba0de-738c-48e0-a558-26d332632da1/lava-cnet.jpg"/>
+            <dc:creator>John Kim</dc:creator>
+        </item>
+        <item>
+            <title>Can you stand on liquid mercury? Watch a scientist try     - CNET</title>
+            <link>https://www.cnet.com/news/mercury-stand-float-codys-lab-video-liquid/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">7c44bc01-c2a3-4881-8e54-410caac05d66</guid>
+            <pubDate>Fri, 10 Nov 2017 23:17:27 +0000</pubDate>
+            <description>A YouTube science host pours 640 pounds of liquid mercury into a tub and tries to stand on it. The results are fascinating.</description>
+            <media:thumbnail url="https://cnet4.cbsistatic.com/img/_A1YbOjZjj1uXZCS535EXQNE9aE=/300x230/2017/11/10/9d0a2920-861e-42bf-adaf-b2f462619366/codymercury.jpg"/>
+            <dc:creator>Amanda Kooser</dc:creator>
+        </item>
+        <item>
+            <title>iPhone X Review: The best iPhone that&#039;s not for everyone video     - CNET</title>
+            <link>https://www.cnet.com/videos/iphone-x-review-the-best-iphone-thats-not-for-everyone/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">8aa32d80-2c0e-4c79-a0d1-dd1ad6ff3cfd</guid>
+            <pubDate>Fri, 10 Nov 2017 22:58:23 +0000</pubDate>
+            <description>It&#039;s the Apple Byte&#039;s iPhone X review. Brian tells us what he likes and ways Apple can make it better.</description>
+            <media:thumbnail url="https://cnet4.cbsistatic.com/img/ZzB0f-TAx4T7itvr3eGdB2effIg=/300x230/2017/11/10/b4cbba3c-c002-472e-ba0f-413a5c144e30/ab-iphonex-review-still.png"/>
+            <dc:creator>Brian Tong</dc:creator>
+        </item>
+        <item>
+            <title>Nintendo could make 25 million Switch consoles next year     - CNET</title>
+            <link>https://www.cnet.com/news/nintendo-could-make-25-million-switch-consoles-next-year/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">77c650b4-c9b1-4ab1-84e6-8ac8ea6e5481</guid>
+            <pubDate>Fri, 10 Nov 2017 22:53:43 +0000</pubDate>
+            <description>Finally, the hybrid gaming gadget will be easier to find.</description>
+            <media:thumbnail url="https://cnet3.cbsistatic.com/img/dVp3OQ5PhSL1o44WuMheP1oKSaE=/300x230/2017/07/19/cfbb8ee4-8030-4c03-9435-3d44e1caa0f5/nintendo-switch-joycon.jpg"/>
+            <dc:creator>Jessica Dolcourt</dc:creator>
+        </item>
+        <item>
+            <title>Disney: We&#039;ll cost &#039;substantially&#039; less than Netflix     - CNET</title>
+            <link>https://www.cnet.com/news/disney-streaming-service-take-on-netflix-for-substantially-less/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">4ca82568-ed06-466a-89c4-40a9538da78d</guid>
+            <pubDate>Fri, 10 Nov 2017 22:24:38 +0000</pubDate>
+            <description>The goal is to lure as many subscribers as possible.</description>
+            <media:thumbnail url="https://cnet3.cbsistatic.com/img/QgRZ7Z1wLTU-LwTSAqQL-P3MbpQ=/300x230/2017/11/10/9521434c-c3bf-4012-b75e-35fdb24279e9/bobiger-getty-11-10-17.jpg"/>
+            <dc:creator>Jessica Dolcourt</dc:creator>
+        </item>
+        <item>
+            <title>Prehistoric wolf-sized otter had a surprisingly killer bite     - CNET</title>
+            <link>https://www.cnet.com/news/prehistoric-otter-surprisingly-killer-bite-university-at-buffalo/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">ee4a40af-a6fb-46e7-bf6f-83f2d1632506</guid>
+            <pubDate>Fri, 10 Nov 2017 21:42:45 +0000</pubDate>
+            <description>With the help of 3D modeling, scientists discover an ancient otter may have been a top dog among predators.</description>
+            <media:thumbnail url="https://cnet4.cbsistatic.com/img/UeZdhEL91_9gpC6Z0gfx9vy4AR8=/300x230/2017/11/10/43a00d20-a03f-4f57-a004-6bb07b2e01ab/siamogale-scenecrop.jpg"/>
+            <dc:creator>Amanda Kooser</dc:creator>
+        </item>
+        <item>
+            <title>Some iPhone X users have a bright green line on their screens     - CNET</title>
+            <link>https://www.cnet.com/news/report-vertical-green-line-afflicting-some-iphone-x-units/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">c9d522a3-412a-4457-9859-84570f6a8bbe</guid>
+            <pubDate>Fri, 10 Nov 2017 21:53:34 +0000</pubDate>
+            <description>At least two dozen iPhone X owners say their phones exhibit the problem.</description>
+            <media:thumbnail url="https://cnet2.cbsistatic.com/img/Hg_1KM8EKYVFy6fMh2iOMjQGDuo=/300x230/2017/11/10/3adfff89-0e08-4bc5-888f-d4dd1ae9f583/iphonex-green-line-credit-mix0mat0sis.png"/>
+            <dc:creator>Jessica Dolcourt</dc:creator>
+        </item>
+        <item>
+            <title>Jibo review     - CNET</title>
+            <link>https://www.cnet.com/products/jibo/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">429aded6-c734-4450-8f69-a463c9dece24</guid>
+            <pubDate>Fri, 10 Nov 2017 20:39:36 +0000</pubDate>
+            <description>Jibo got his start three years ago as an Indiegogo project. The social bot is now available for purchase, but he&#039;s more beauty than brains.</description>
+            <media:thumbnail url="https://cnet2.cbsistatic.com/img/4PxrXHRGVK4MYwaFtB08m3SRUo4=/300x230/2017/11/09/9891ac9a-274f-47b6-a58b-14ce8a811f34/jibo-product-photos-4.jpg"/>
+            <dc:creator>Molly Price</dc:creator>
+        </item>
+        <item>
+            <title>Send money using Apple Pay Cash video     - CNET</title>
+            <link>https://www.cnet.com/videos/send-money-using-apple-pay-cash/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">46da6096-1e91-4df7-b40c-2dfc0344c34e</guid>
+            <pubDate>Fri, 10 Nov 2017 20:49:55 +0000</pubDate>
+            <description>Similar to Square Cash or Venmo, Apple Pay Cash is a peer-to-peer system that can let you pay a friend back for drinks with just a few taps. Here&#039;s everything you need to know about the new payment platform.</description>
+            <media:thumbnail url="https://cnet2.cbsistatic.com/img/gYFSyvepE0N7xqmy7rnbrRSEAyA=/300x230/2017/11/10/3544139f-e80e-48a4-b3d3-46c814bcf340/ht-applepaycash-c.jpg"/>
+            <dc:creator>Chris Parker</dc:creator>
+        </item>
+        <item>
+            <title>Stirring music video filmed entirely on iPhone X     - CNET</title>
+            <link>https://www.cnet.com/news/iphone-x-piano-guys-music-video-youtube-flicker/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">fa073e4d-3044-45ac-8278-53d0c00825f1</guid>
+            <pubDate>Fri, 10 Nov 2017 19:50:06 +0000</pubDate>
+            <description>Forget all that fancy moviemaking equipment. The Piano Guys turned to an iPhone X for their latest music video.</description>
+            <media:thumbnail url="https://cnet2.cbsistatic.com/img/6e9RMrezCQBIQFMhuKnEpnE8CGA=/300x230/2017/11/10/17b4f077-0a25-44e4-9301-df7bb2e2d283/pianoguys.jpg"/>
+            <dc:creator>Amanda Kooser</dc:creator>
+        </item>
+        <item>
+            <title>First &#039;space nation&#039; set to blast off from Earth Saturday     - CNET</title>
+            <link>https://www.cnet.com/news/asgardia-1-space-kingdom-nasa-orbital-atk-launch-cygnus/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">cdd2e8e7-c1d9-422e-b871-e36a821cb9c0</guid>
+            <pubDate>Fri, 10 Nov 2017 21:36:22 +0000</pubDate>
+            <description>Asgardia exists mostly online, but soon its first bit of territory will claim its independence ... from the pull of Earth&#039;s gravity.</description>
+            <media:thumbnail url="https://cnet4.cbsistatic.com/img/KI7_MfMma3tYVx90hmYtsme9wN8=/300x230/2015/05/06/6a123b7d-921b-4ddc-bb5f-e3b145a40b19/alga-12.jpg"/>
+            <dc:creator>Eric Mack</dc:creator>
+        </item>
+        <item>
+            <title>Netflix abandons Louis C.K. comedy special     - CNET</title>
+            <link>https://www.cnet.com/news/netflix-louis-c-k-stand-up-special-sexual-misconduct-harassment/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">60bb4561-7413-48cc-a4bf-e4c1436e54cc</guid>
+            <pubDate>Fri, 10 Nov 2017 19:07:00 +0000</pubDate>
+            <description>Calling sexual misconduct allegations about the comedian &quot;disturbing,&quot; the streaming-video service scraps plans for his second stand-up special.</description>
+            <media:thumbnail url="https://cnet2.cbsistatic.com/img/ydzR9rudkDh-7M-KxuT10q4y2xo=/300x230/2017/11/10/38ce3d94-09aa-4b03-a0b7-0dd4ecc65f29/gettyimages-620200750-tighter.jpg"/>
+            <dc:creator>Joan E. Solsman</dc:creator>
+        </item>
+        <item>
+            <title>Our long-term 2017 Chrysler Pacifica crosses the 20,000-mile mark video     - Roadshow</title>
+            <link>https://www.cnet.com/roadshow/videos/our-long-term-2017-chrysler-pacifica-crosses-the-20000-mile-mark/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">50177824-c477-46fe-aeb0-a82bd566c296</guid>
+            <pubDate>Fri, 10 Nov 2017 19:03:53 +0000</pubDate>
+            <description>In less than a year, we&#039;ve driven our minivan far more than the average family. Here&#039;s how it held up.</description>
+            <media:thumbnail url="https://cnet4.cbsistatic.com/img/SYbwwQWaEcW4jNsg6G69hNTuwlY=/300x230/2017/11/10/2e5aca76-f2c7-412c-b699-71b915644917/rs-pacifica-lt-1stqtr-update-thumbnail-4cms.jpg"/>
+            <dc:creator>Andrew Krok</dc:creator>
+        </item>
+        <item>
+            <title>Popular teen app Musical.ly sells for reported $800M     - CNET</title>
+            <link>https://www.cnet.com/news/popular-teen-app-musical-ly-sells-for-reported-800-mil/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">14441049-8688-42ed-b1fc-567da23f157f</guid>
+            <pubDate>Fri, 10 Nov 2017 19:29:30 +0000</pubDate>
+            <description>Music video social app Musical.ly has been sold to a Chinese company that makes a news aggregation app, for almost a billion dollars.</description>
+            <media:thumbnail url="https://cnet2.cbsistatic.com/img/5m_30aFtdVo_Qhe9tLZX008QcWk=/300x230/2017/11/10/54d71a34-0372-4be9-8968-c85169d990fa/musically.png"/>
+            <dc:creator>Ty Pendlebury</dc:creator>
+        </item>
+        <item>
+            <title>Three ways to protect your phone video     - CNET</title>
+            <link>https://www.cnet.com/videos/three-ways-to-cover-your-phone/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">e939cae7-ee2f-449d-9a61-9461320eac65</guid>
+            <pubDate>Fri, 10 Nov 2017 18:00:03 +0000</pubDate>
+            <description>Avoid paying hundred of dollars in repairs with these tips.</description>
+            <media:thumbnail url="https://cnet4.cbsistatic.com/img/jYdXUuKxtaQi6iGJoIbHINIrHmE=/300x230/2017/11/10/4af8cd0f-79c8-4bd8-bbac-2bbc2f02778f/protectphonepic.jpg"/>
+            <dc:creator>Vanessa Hand Orellana</dc:creator>
+        </item>
+        <item>
+            <title>2018 Dodge Demon begins shipping to dealers nationwide     - Roadshow</title>
+            <link>https://www.cnet.com/roadshow/news/2018-dodge-demon-begins-shipping-to-dealers-nationwide/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">db8f49b4-010d-4bbb-bb74-6fbaca7076f9</guid>
+            <pubDate>Fri, 10 Nov 2017 18:58:55 +0000</pubDate>
+            <description>Just in time to mothball them for winter!</description>
+            <media:thumbnail url="https://cnet3.cbsistatic.com/img/tnixJcF4rIgRiqeicyyvvh5cBs4=/300x230/2017/10/05/e510629b-064f-47c3-9f0f-7c95c42f744f/2018-dodge-challenger-srt-demon-33.jpg"/>
+            <dc:creator>Andrew Krok</dc:creator>
+        </item>
+        <item>
+            <title>The future of EV charging might happen while you drive video     - Roadshow</title>
+            <link>https://www.cnet.com/roadshow/videos/electric-roads/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">bad8bf69-44f0-47b5-80d2-ad1d59b1e548</guid>
+            <pubDate>Fri, 10 Nov 2017 18:37:59 +0000</pubDate>
+            <description>Wireless charging through pavement could come sooner than you think.</description>
+            <media:thumbnail url="https://cnet4.cbsistatic.com/img/y12anVJ6hHuE8mBulRTzsMfS7FQ=/300x230/2017/11/10/aeb04c61-bfdd-4122-9677-480220fcafee/ct101-011-electric-roadsrsr.jpg"/>
+            <dc:creator>Brian Cooley</dc:creator>
+        </item>
+        <item>
+            <title>55-inch Roku 4K TV for $400: Amazing Amazon deal is back     - CNET</title>
+            <link>https://www.cnet.com/news/55-inch-roku-4k-tv-for-400-amazing-amazon-tv-deal-is-back/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">fc3180cd-0c48-4dc4-9112-9468764eba15</guid>
+            <pubDate>Fri, 10 Nov 2017 19:34:49 +0000</pubDate>
+            <description>Why wait for Black Friday? Amazon is already offering an incredible deal on a 55-inch 4K TV.</description>
+            <media:thumbnail url="https://cnet2.cbsistatic.com/img/UWDbUxoTaW7IjOdbNDaa9HnBdBk=/300x230/2017/11/10/fd5aed7f-7ffb-49f1-9cfd-16f585e4afcf/screen-shot-2017-11-10-at-12-36-45-pm.png"/>
+            <dc:creator>John Falcone</dc:creator>
+        </item>
+        <item>
+            <title>EA Origin Access competitor Utomik adds first Ubisoft PC titles     - CNET</title>
+            <link>https://www.cnet.com/news/origin-access-competitor-utomik-adds-first-ubisoft-pc-titles/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">b9f64f21-346d-4143-9675-f66aa9207d7c</guid>
+            <pubDate>Fri, 10 Nov 2017 18:11:55 +0000</pubDate>
+            <description>Utomik is adding three Prince of Persia titles to its catalog of over 600 PC games which also include offerings from Codemasters and Telltale.</description>
+            <media:thumbnail url="https://cnet2.cbsistatic.com/img/iYwswI21SOeDyFx48adzBvQJjUY=/300x230/2016/06/20/44269ad8-3c93-451c-a2bb-38dad4a66e2b/screen-shot-2016-06-20-at-12-34-31-pm.png"/>
+            <dc:creator>Ty Pendlebury</dc:creator>
+        </item>
+        <item>
+            <title>You might be able to charge your next EV while on the road     - Roadshow</title>
+            <link>https://www.cnet.com/roadshow/news/charge-your-car-by-just-driving-it/#ftag=CADf328eec</link>
+            <guid isPermaLink="false">93b947ab-38ef-4a93-a008-288a79553df9</guid>
+            <pubDate>Fri, 10 Nov 2017 21:09:27 +0000</pubDate>
+            <description>Dynamic Inductive Charging could be the solution to an EV&#039;s range anxiety</description>
+            <media:thumbnail url="https://cnet3.cbsistatic.com/img/5Znxj9fHC_ZKmQjxzD16TxQ5uiQ=/300x230/2017/11/10/594f882e-22d1-4970-8bb2-83bb57b9f5d9/ct101-011-electric-roadsrs.jpg"/>
+            <dc:creator>Brian Cooley</dc:creator>
+        </item>
+    </channel>
+</rss>

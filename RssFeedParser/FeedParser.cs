@@ -79,6 +79,14 @@ namespace RssFeedParser
                 newArticle.Title = item.Element("title").Value;
             }
 
+            /* TODO (for cnet articles for example)
+             *   if (item.Elements().First(i => i.Name.LocalName == "media:thumbnail") != null)
+            {
+                newArticle.Image = item.Elements().First(i => i.Name.LocalName == "media:thumbnail").Value;
+            }
+            else
+            */
+
             if (item.Element("description") != null)
             {
                 newArticle.Content = item.Element("description").Value;

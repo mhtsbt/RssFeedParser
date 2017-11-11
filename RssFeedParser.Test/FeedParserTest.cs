@@ -38,6 +38,29 @@ namespace RssFeedParser.Test
         }
 
         [Fact]
+        public void TestCNETFeed()
+        {
+
+            var contents = File.ReadAllText(Path.Combine("ExampleFeeds", "CNET1.xml"));
+
+            XDocument doc = XDocument.Parse(contents);
+
+            var rssFeedParser = new FeedParser();
+            RssFeed feed = rssFeedParser.ParseFeed(doc);
+
+            Assert.Equal(feed.Articles.Count, 25);
+
+            foreach (var article in feed.Articles)
+            {
+                Assert.False(string.IsNullOrEmpty(article.Image));
+
+                var path = new Uri(article.Image);
+                Assert.True(Path.HasExtension(path.AbsoluteUri));
+            }
+
+        }
+
+        [Fact]
         public void FeedParserShouldParseArticles()
         {
 
