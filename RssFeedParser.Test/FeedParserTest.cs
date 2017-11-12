@@ -15,7 +15,7 @@ namespace RssFeedParser.Test
         }
 
         [Fact]
-        public void TestMashableFeed()
+        public async void TestMashableFeed()
         {
 
             var contents = File.ReadAllText(Path.Combine("ExampleFeeds", "Mashable1.xml"));
@@ -23,7 +23,7 @@ namespace RssFeedParser.Test
             XDocument doc = XDocument.Parse(contents);
 
             var rssFeedParser = new FeedParser();
-            RssFeed feed = rssFeedParser.ParseFeed(doc);
+            RssFeed feed = await rssFeedParser.ParseFeed(doc);
 
             Assert.Equal(feed.Articles.Count, 30);
 
@@ -38,7 +38,7 @@ namespace RssFeedParser.Test
         }
 
         [Fact]
-        public void TestCNETFeed()
+        public async void TestCNETFeed()
         {
 
             var contents = File.ReadAllText(Path.Combine("ExampleFeeds", "CNET1.xml"));
@@ -46,7 +46,7 @@ namespace RssFeedParser.Test
             XDocument doc = XDocument.Parse(contents);
 
             var rssFeedParser = new FeedParser();
-            RssFeed feed = rssFeedParser.ParseFeed(doc);
+            RssFeed feed = await rssFeedParser.ParseFeed(doc);
 
             Assert.Equal(feed.Articles.Count, 25);
 
@@ -56,6 +56,27 @@ namespace RssFeedParser.Test
 
                 var path = new Uri(article.Image);
                 Assert.True(Path.HasExtension(path.AbsoluteUri));
+            }
+
+        }
+
+        [Fact]
+        public async void TestGuardianFeed()
+        {
+
+            var contents = File.ReadAllText(Path.Combine("ExampleFeeds", "Guardian1.xml"));
+
+            XDocument doc = XDocument.Parse(contents);
+
+            var rssFeedParser = new FeedParser();
+            RssFeed feed = await rssFeedParser.ParseFeed(doc);
+
+            Assert.Equal(feed.Articles.Count, 99);
+
+            foreach (var article in feed.Articles)
+            {
+                Assert.False(string.IsNullOrEmpty(article.Image));
+
             }
 
         }

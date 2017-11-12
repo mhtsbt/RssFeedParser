@@ -1,9 +1,11 @@
-﻿using RssFeedParser.Models;
+﻿using HtmlAgilityPack;
+using RssFeedParser.Models;
 using System;
 using System.IO;
 using System.Linq;
 using System.Net.Http;
 using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 using System.Xml.Linq;
 
 namespace RssFeedParser
@@ -12,14 +14,16 @@ namespace RssFeedParser
     public class FeedParser
     {
 
-        public RssFeed ParseFeed(string url)
+        public async Task<RssFeed> ParseFeed(string url)
         {
-            HttpClient client = new HttpClient();
-            Stream stream = client.GetStreamAsync(url).Result;
-            return ParseFeed(XDocument.Load(stream));
+            using (HttpClient client = new HttpClient())
+            {
+                Stream stream = await client.GetStreamAsync(url);
+                return await ParseFeed(XDocument.Load(stream));
+            }
         }
 
-        public RssFeed ParseFeed(XDocument doc)
+        public async Task<RssFeed> ParseFeed(XDocument doc)
         {
             var outputFeed = new RssFeed();
             var type = DetermineFeedType(doc);
@@ -51,8 +55,42 @@ namespace RssFeedParser
                 }
             }
 
+            foreach (var article in outputFeed.Articles.Where(x => string.IsNullOrEmpty(x.Image)))
+            {
+                article.Image = await UseOgTagForArticleImage(article);
+            }
+
             return outputFeed;
 
+        }
+
+        private async Task<string> UseOgTagForArticleImage(RssFeedArticle article)
+        {
+            using (var client = new HttpClient())
+            {
+
+                var articleResponse = await client.GetAsync(article.Link);
+                var html = await articleResponse.Content.ReadAsStringAsync();
+
+                var htmlDocument = new HtmlDocument();
+                htmlDocument.LoadHtml(html);
+
+                // If no og-image found just return;
+                var elements = htmlDocument.DocumentNode.SelectNodes("//meta[contains(@property, 'og:image')]");
+                if (elements == null || !elements.Any()) return string.Empty;
+
+                // If no content for tag found return;
+                var ogImageMetaTag = elements.Where(x => x.Attributes.Any(a => a.Value== "og:image")).First();
+                var ogImageContentTag = ogImageMetaTag.GetAttributeValue("content", null);
+                if (string.IsNullOrWhiteSpace(ogImageContentTag)) return string.Empty;
+
+                // If not a valid url just return null
+                Uri mediaUrl;
+                if (!Uri.TryCreate(ogImageContentTag, UriKind.RelativeOrAbsolute, out mediaUrl)) return string.Empty;
+
+                return mediaUrl.ToString();
+
+            }
         }
 
         private FeedTypes DetermineFeedType(XDocument doc)
@@ -78,14 +116,6 @@ namespace RssFeedParser
             {
                 newArticle.Title = item.Element("title").Value;
             }
-
-            /* TODO (for cnet articles for example)
-             *   if (item.Elements().First(i => i.Name.LocalName == "media:thumbnail") != null)
-            {
-                newArticle.Image = item.Elements().First(i => i.Name.LocalName == "media:thumbnail").Value;
-            }
-            else
-            */
 
             XNamespace dc = "http://search.yahoo.com/mrss/";
 
@@ -169,7 +199,16 @@ namespace RssFeedParser
             Regex regex = new Regex(@"(?<Protocol>\w+):\/\/(?<Domain>[\w@][\w.:@]+)\/?[\w\.:()?=%&=\-@/$,]*");
             Match match = regex.Match(description);
 
-            return match.Value;
+            var imageUrl = match.Value;
+
+            if (Path.HasExtension(imageUrl))
+            {
+                return imageUrl;
+            }
+            else
+            {
+                return string.Empty;
+            }
 
         }
 
