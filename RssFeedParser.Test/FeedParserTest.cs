@@ -82,6 +82,20 @@ namespace RssFeedParser.Test
         }
 
         [Fact]
+        public async void TestIndieHackers()
+        {
+
+            var contents = File.ReadAllText(Path.Combine("ExampleFeeds", "Indiehackers.xml"));
+
+            XDocument doc = XDocument.Parse(contents);
+
+            var rssFeedParser = new FeedParser();
+            RssFeed feed = await rssFeedParser.ParseFeed(doc);
+
+            Assert.Equal(feed.Articles.Count, 235);
+        }
+
+        [Fact]
         public void FeedParserShouldParseArticles()
         {
 

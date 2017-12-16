@@ -1,0 +1,4713 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://www.indiehackers.com/feed.xml</id>
+  <title>Indie Hackers Interviews</title>
+  <updated>2017-12-12T11:00:00Z</updated>
+  <author>
+    <name>Courtland Allen</name>
+    <email>courtland@indiehackers.com</email>
+    <uri>https://twitter.com/csallen</uri>
+  </author>
+  <link rel="alternate" href="https://www.indiehackers.com/businesses"/>
+  <subtitle>Interviews with the hackers behind profitable apps and businesses.</subtitle>
+  <logo>http://www.indiehackers.com/images/sharing-screenshots/home-page-screenshot--facebook1.png</logo>
+  <rights>All Rights Reserved 2016, Courtland Allen</rights>
+  <generator>Feed for Node.js</generator>
+  <entry>
+    <title type="html">
+      <![CDATA[Toolwatch.io - Measure the Accuracy of Your Watch ($4000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/toolwatch-io</id>
+    <link href="https://www.indiehackers.com/businesses/toolwatch-io">
+    </link>
+    <updated>2017-12-12T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Marc Montagne explains how he built Toolwatch.io and grew revenue to $4,000/mo by going to market with nearly a dozen user outreach methods.]]>
+    </summary>
+    <author>
+      <name>Marc Montagne</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Tettra - Simple Company Wiki for Slack Teams ($25000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/tettra</id>
+    <link href="https://www.indiehackers.com/businesses/tettra">
+    </link>
+    <updated>2017-12-11T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Tettra generates $25,000/mo providing wikis to company Slack teams. Nelson Joyce explains how they pivoted and found traction after a rocky release of version one.]]>
+    </summary>
+    <author>
+      <name>Nelson Joyce</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Dependabot - Automated Dependency Updates ($740/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/dependabot</id>
+    <link href="https://www.indiehackers.com/businesses/dependabot">
+    </link>
+    <updated>2017-12-08T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Grey Baker explains how he and his co-founder have built and grown Dependabot to $740/mo by living off their savings and capitalizing on early user feedback.]]>
+    </summary>
+    <author>
+      <name>Grey Baker</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Widgetic - Apps as a Service for DIY Platforms ($3270/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/widgetic</id>
+    <link href="https://www.indiehackers.com/businesses/widgetic">
+    </link>
+    <updated>2017-12-05T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Andu Potorac and his team pivoted from digital agency to SaaS company. Read how they've used subscriptions, partnerships, and integrations to generate over $3k/mo.]]>
+    </summary>
+    <author>
+      <name>Andu Potorac</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Yet Another Mail Merge - Easy Mail Merge with Gmail ($70000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/yet-another-mail-merge</id>
+    <link href="https://www.indiehackers.com/businesses/yet-another-mail-merge">
+    </link>
+    <updated>2017-12-04T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Romain Vialard's Yet Another Mail Merge attracts over 100,000 monthly users and generates $70,000/mo — all through organic growth methods. Read how.]]>
+    </summary>
+    <author>
+      <name>Romain Vialard</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Resume Beacon - Resume Builder, Resume Templates ($500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/resume-beacon</id>
+    <link href="https://www.indiehackers.com/businesses/resume-beacon">
+    </link>
+    <updated>2017-12-01T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Paul Dessert explains how he's grown templating app Resume Beacon to $500/mo as part of a personal challenge to build multiple revenue-generating products.]]>
+    </summary>
+    <author>
+      <name>Paul Dessert</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[CoderPad - Interviewing Platform for Programmers ($170000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/coderpad</id>
+    <link href="https://www.indiehackers.com/businesses/coderpad">
+    </link>
+    <updated>2017-11-28T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Vincent Woo's online interviewing platform CoderPad brings in $170,000/mo. Read how he built it and made ordinary sales calls to find his first customers.]]>
+    </summary>
+    <author>
+      <name>Vincent Woo</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[JungleFlip - Deal Finding, Discounted Products ($550/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/jungleflip</id>
+    <link href="https://www.indiehackers.com/businesses/jungleflip">
+    </link>
+    <updated>2017-11-27T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Paul Dessert explains how he built JungleFlip and grew revenue to $550/mo. After originally focusing on the wrong audience, he experimented and cast a wider net.]]>
+    </summary>
+    <author>
+      <name>Paul Dessert</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Kapwing - Online Video Editor and Meme Maker ($240/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/kapwing</id>
+    <link href="https://www.indiehackers.com/businesses/kapwing">
+    </link>
+    <updated>2017-11-24T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Kapwing is profitable, and it's only a couple months old. Julia Enthoven explains how her team has channeled their love of social media into a promising business.]]>
+    </summary>
+    <author>
+      <name>Julia Enthoven</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Snipcart - Easy, Flexible E-Commerce for Developers ($33000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/snipcart</id>
+    <link href="https://www.indiehackers.com/businesses/snipcart">
+    </link>
+    <updated>2017-11-21T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Snipcart generates $33,000/mo helping developers add e-commerce features to their websites. Franck Lanthier Nadeau explains how.]]>
+    </summary>
+    <author>
+      <name>Francois Lanthier Nadeau</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Find-me - Connecting Advertisers with Creators ($250/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/find-me</id>
+    <link href="https://www.indiehackers.com/businesses/find-me">
+    </link>
+    <updated>2017-11-20T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Erik Rood explains how he's grown a service for advertisers to $250/mo in just two months by reaching out to one client at a time.]]>
+    </summary>
+    <author>
+      <name>Erik Rood</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Baby Growth Chart Percentile - App for New Parents ($100/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/baby-growth-chart-percentile</id>
+    <link href="https://www.indiehackers.com/businesses/baby-growth-chart-percentile">
+    </link>
+    <updated>2017-11-17T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Min Kwon built an iOS app for new parents, and in three months he's grown it to almost $200/mo. Read how he got started and how he's found his audience.]]>
+    </summary>
+    <author>
+      <name>Min Kwon</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Quail - Point of Sale for Antique Malls ($900/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/quail</id>
+    <link href="https://www.indiehackers.com/businesses/quail">
+    </link>
+    <updated>2017-11-14T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Trevor Fountain explains how Quail — a point-of-sale SaaS business for retailers — makes $900/mo, even though most of his customers have no online presence.]]>
+    </summary>
+    <author>
+      <name>Trevor Fountain</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Space Jam Data - Commercial Real Estate Analytics ($25000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/space-jam-data</id>
+    <link href="https://www.indiehackers.com/businesses/space-jam-data">
+    </link>
+    <updated>2017-11-13T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Space Jam Data, a B2B real estate crowdsourcing tool, generates $25,000/mo. Jack Clancy explains why it pays to build relationships with every potential customer.]]>
+    </summary>
+    <author>
+      <name>Jack Clancy</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[PremiumCoding - WordPress Themes for Blogs ($15000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/premiumcoding</id>
+    <link href="https://www.indiehackers.com/businesses/premiumcoding">
+    </link>
+    <updated>2017-11-10T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Website theme marketplaces are very competitive. Read how the PremiumCoding ($15k/mo) founders have leveraged multiple 3rd-party platforms to stay ahead.]]>
+    </summary>
+    <author>
+      <name>Ales Krivec</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Trump Excel - Community for Excel Enthusiasts ($4500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/trump-excel</id>
+    <link href="https://www.indiehackers.com/businesses/trump-excel">
+    </link>
+    <updated>2017-11-07T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Sumit Bansal explains how he turned his experience working with Excel spreadsheets into a profitable online community business generating $4,500/mo.]]>
+    </summary>
+    <author>
+      <name>Sumit Bansal</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Grid Sage Games - Niche Tactical Games ($2500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/grid-sage-games</id>
+    <link href="https://www.indiehackers.com/businesses/grid-sage-games">
+    </link>
+    <updated>2017-11-06T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Josh Ge was a hobbyist game developer for more than ten years. Read how he has grown his audience, and how his newest game, Cogmind, generates $2,500/mo.]]>
+    </summary>
+    <author>
+      <name>Josh Ge</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Society Socks - E-Commerce Sock Subscription  ($6000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/society-socks</id>
+    <link href="https://www.indiehackers.com/businesses/society-socks">
+    </link>
+    <updated>2017-11-02T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Filip Pejic's e-commerce company makes $6k/mo. He explains how he staged a viral launch and how he regained momentum after a post-launch slowdown in traffic.]]>
+    </summary>
+    <author>
+      <name>Filip Pejic</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[EditionGuard - eBook Anti-Piracy Solutions ($25000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/editionguard</id>
+    <link href="https://www.indiehackers.com/businesses/editionguard">
+    </link>
+    <updated>2017-10-31T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Turgay Birand spent thousands to acquire his first ten customers. He explains how this investment paid off, helping him grown his SaaS app to $25,000/mo.]]>
+    </summary>
+    <author>
+      <name>Turgay Birand</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Postcard Panda - Eco-Friendly Postcards ($400/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/postcard-panda</id>
+    <link href="https://www.indiehackers.com/businesses/postcard-panda">
+    </link>
+    <updated>2017-10-30T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[When Matt Sencenbaugh learned about a VC-funded postcard app, he challenged himself to bootstrap his own version. Read how he generates hundreds in revenue.]]>
+    </summary>
+    <author>
+      <name>Matt Sencenbaugh</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Inbox When Ready - Chrome Extension for Gmail ($1200/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/inbox-when-ready</id>
+    <link href="https://www.indiehackers.com/businesses/inbox-when-ready">
+    </link>
+    <updated>2017-10-27T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Peter Hartree was getting distracted by his email, so he built a Chrome extension to protect his focus. Now his side project is making $1,200/mo.]]>
+    </summary>
+    <author>
+      <name>Peter Hartree</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Bubble - Visual Programming ($100000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/bubble</id>
+    <link href="https://www.indiehackers.com/businesses/bubble">
+    </link>
+    <updated>2017-10-24T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Everyone wants to code, but not everyone knows how. Read how two co-founders built and grew a solution to this problem which now generates $100,000/mo.]]>
+    </summary>
+    <author>
+      <name>Emmanuel Straschnov</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Payfunnels - Invoicing App ($10000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/payfunnels</id>
+    <link href="https://www.indiehackers.com/businesses/payfunnels">
+    </link>
+    <updated>2017-10-23T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Dave Rogenmoser explains how he built Payfunnels to address his own needs, grew it with the help of online courses, and ultimately sold the company in 2017.]]>
+    </summary>
+    <author>
+      <name>Dave Rogenmoser</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[BotList, Inc. - Connecting Humans to Bots ($200/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/botlist-inc</id>
+    <link href="https://www.indiehackers.com/businesses/botlist-inc">
+    </link>
+    <updated>2017-10-20T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Seth Louey, a former nominee for Product Hunt Maker of the Year, explains how he and his co-founder capitalized on a growing tech trend to build a community.]]>
+    </summary>
+    <author>
+      <name>Seth Louey</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Snappies - A Whole New Kind Of Snapback ($1500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/snappies</id>
+    <link href="https://www.indiehackers.com/businesses/snappies">
+    </link>
+    <updated>2017-10-17T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Burly Vinson explains how he's grown his ecommerce business to $1,500/mo in under a year after starting from zero: no dev experience, no online following.]]>
+    </summary>
+    <author>
+      <name>Burly Vinson</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[everydayCheck - Simple and Beautiful Habit Tracker ($450/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/everydaycheck</id>
+    <link href="https://www.indiehackers.com/businesses/everydaycheck">
+    </link>
+    <updated>2017-10-13T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Joan Boixadós's everydayCheck began as a goal for January: "Make a project that makes at least $1." Half a year later, the project brings in $450/mo. Read how.]]>
+    </summary>
+    <author>
+      <name>Joan Boixadós</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Tech Press List - 100 Journalist Contacts for Your Startup ($620/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/tech-press-list</id>
+    <link href="https://www.indiehackers.com/businesses/tech-press-list">
+    </link>
+    <updated>2017-10-10T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Pete MacLeod started Tech Press List ($620/mo) just two months ago while working a full-time job. Read how's he validated and built a profitable project with no code.]]>
+    </summary>
+    <author>
+      <name>Pete MacLeod</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Hercules - Workout Performance Tracker App ($3000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/hercules</id>
+    <link href="https://www.indiehackers.com/businesses/hercules">
+    </link>
+    <updated>2017-10-09T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jérémy Mouzin couldn't find a suitable workout app, so he built his own: Hercules, $3,000/mo. Read his paint-by-numbers system for driving traffic to a mobile app.]]>
+    </summary>
+    <author>
+      <name>Jérémy Mouzin</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[RunCloud.io - A Modern Web Server Panel ($2800/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/runcloud-io</id>
+    <link href="https://www.indiehackers.com/businesses/runcloud-io">
+    </link>
+    <updated>2017-10-06T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Developers are notoriously hard to sell to. Arif Tukiman's team hedged on this risk by building for themselves first, then targeting a niche. Today they make $2.8k/mo.]]>
+    </summary>
+    <author>
+      <name>Arif Tukiman</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[WeddingLovely - Wedding Planning App & Vendor Network ($7200/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/weddinglovely</id>
+    <link href="https://www.indiehackers.com/businesses/weddinglovely">
+    </link>
+    <updated>2017-10-03T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Designer Tracy Osborn couldn't find a developer to help with her business idea, so she built a scaled-down website herself. Today, WeddingLovely generates $7.2k/mo.]]>
+    </summary>
+    <author>
+      <name>Tracy Osborn</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[The Lobby - Stop Wasting Time Applying to Jobs ($2000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/the-lobby</id>
+    <link href="https://www.indiehackers.com/businesses/the-lobby">
+    </link>
+    <updated>2017-10-02T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Deepak Chhugani found a lot to be desired in the recruiting practices of investment banks. Today his company makes $2,000/mo disrupting these practices. Read how.]]>
+    </summary>
+    <author>
+      <name>Deepak Chhugani</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Timetastic - A Nicer Way to Book Time Off Work ($28000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/timetastic</id>
+    <link href="https://www.indiehackers.com/businesses/timetastic">
+    </link>
+    <updated>2017-09-29T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[The original Timetastic was a side project for internal use by a separate company. Read how Gary Bury grew it into a mature business of its own, making $28k/mo.]]>
+    </summary>
+    <author>
+      <name>Gary Bury</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Jitbit Software - SaaS Help Desk ($160000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/jitbit-software</id>
+    <link href="https://www.indiehackers.com/businesses/jitbit-software">
+    </link>
+    <updated>2017-09-26T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Alex Yumashev's self-funded help desk service makes $1,700,000 per year. Read how he uses "viral tools" (rather than, say, viral blog posts) to attract new users.]]>
+    </summary>
+    <author>
+      <name>Alex Yumashev</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[PongUp! - Office Ping Pong Leaderboard ($300/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/pong-up</id>
+    <link href="https://www.indiehackers.com/businesses/pong-up">
+    </link>
+    <updated>2017-09-25T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[At $300/mo in its fourth month, Dennis Ong's PongUp! shows that fun and profit can mix. Read about the pre-launch efforts that helped him hit the ground running.]]>
+    </summary>
+    <author>
+      <name>Dennis Ong</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Dollar Flight Club - Travel, Cheap Flights, Adventure ($1500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/dollar-flight-club</id>
+    <link href="https://www.indiehackers.com/businesses/dollar-flight-club">
+    </link>
+    <updated>2017-09-22T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[After life-changing experiences abroad, Jesse Neugarten built and launched Dollar Flight Club. Read how he's found users and grown revenue to $1,500 in half a year.]]>
+    </summary>
+    <author>
+      <name>Jesse Neugarten</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Officelovin’ - The Best Tech and Startup Offices ($3000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/officelovin</id>
+    <link href="https://www.indiehackers.com/businesses/officelovin">
+    </link>
+    <updated>2017-09-19T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Michal Ptacek has followed the money. Tech companies know that stunning office spaces attract top talent, so Michal has built an office showcase making $3,000/mo.]]>
+    </summary>
+    <author>
+      <name>Michal Ptacek</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Demio - Smart Webinar Platform ($43000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/demio</id>
+    <link href="https://www.indiehackers.com/businesses/demio">
+    </link>
+    <updated>2017-09-18T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Feature creep almost sank the first version of Demio. Read how Wyatt Jozwowski and his team narrowed their focus to the core product to grow revenue to 43k/mo.]]>
+    </summary>
+    <author>
+      <name>David Abrams</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Vacayrx - Alternative Vacation Rental Platform ($7500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/vacayrx</id>
+    <link href="https://www.indiehackers.com/businesses/vacayrx">
+    </link>
+    <updated>2017-09-15T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jesse Martinek bootstrapped Vacayrx with a bit of in-the-field market validation and no web development background. Read how he's grown it to $7,500/mo.]]>
+    </summary>
+    <author>
+      <name>Jesse Martinek</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Stay22 - Accommodation Service for Eventgoers ($5000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/stay22</id>
+    <link href="https://www.indiehackers.com/businesses/stay22">
+    </link>
+    <updated>2017-09-12T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Hamed Al-Khabaz explains the clever marketing and product validation that have helped him rapidly grow Stay22, a hotel accommodation service, to $5,000/mo.]]>
+    </summary>
+    <author>
+      <name>Hamed Al-Khabaz</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Content Snare - Get Content From Your Clients ($960/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/content-snare</id>
+    <link href="https://www.indiehackers.com/businesses/content-snare">
+    </link>
+    <updated>2017-09-11T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[James Rose details each facet of Content Snare's multifaceted marketing strategy to explain how the SaaS company has grown to $960/mo.]]>
+    </summary>
+    <author>
+      <name>James Rose</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Worldwide101 - Premium Virtual Assistant Company ($200000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/worldwide101</id>
+    <link href="https://www.indiehackers.com/businesses/worldwide101">
+    </link>
+    <updated>2017-09-08T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[After years of full-time work, Sandra Lewis began to consult for entrepreneurs. Then she expanded. Read how she's grown it into a multi-million dollar business.]]>
+    </summary>
+    <author>
+      <name>Sandra Lewis</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[I Want That Flight - Airfare Comparison Website ($110000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/i-want-that-flight</id>
+    <link href="https://www.indiehackers.com/businesses/i-want-that-flight">
+    </link>
+    <updated>2017-09-05T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Serial maker Garth Adams got into the cheap flights business back in 2002, and over that period he's grown revenue from 20 cents per day to $110,000 per month.]]>
+    </summary>
+    <author>
+      <name>Garth Adams</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[MH Themes - Professional Magazine WordPress Themes  ($30000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/mh-themes</id>
+    <link href="https://www.indiehackers.com/businesses/mh-themes">
+    </link>
+    <updated>2017-09-04T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Michael Hebenstreit left his equity trading career behind to build a WordPress business. Today, he's making $30,000/mo, but it hasn't been an easy path.]]>
+    </summary>
+    <author>
+      <name>Michael Hebenstreit</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Get Me To Europe - Cheapest Flights to Europe ($100/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/get-me-to-europe</id>
+    <link href="https://www.indiehackers.com/businesses/get-me-to-europe">
+    </link>
+    <updated>2017-09-01T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Neither Nicholas Romano nor his co-founder Kyle Hetherington are programmers, yet their startup is on track to make hundreds in its second month. Read how.]]>
+    </summary>
+    <author>
+      <name>Nicholas Romano</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Populum - Direct-To-Consumer Supplement Brand ($70000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/populum</id>
+    <link href="https://www.indiehackers.com/businesses/populum">
+    </link>
+    <updated>2017-08-29T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Hemp oil business Populum is less than a year old, yet it's generating $70,000/mo. Read how the founders are breaking the rules of convention in a taboo industry.]]>
+    </summary>
+    <author>
+      <name>Gunhee Park</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Founder2be - Online Dating for Co-founders ($2000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/founder2be</id>
+    <link href="https://www.indiehackers.com/businesses/founder2be">
+    </link>
+    <updated>2017-08-28T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Oliver Bremer couldn't find a co-founder, so he turned his problem into an opportunity worth $2,000/mo — Founder2be: online dating for co-founders.]]>
+    </summary>
+    <author>
+      <name>Oliver Bremer</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[BlankPage - Motivation as a Service for Writers ($1300/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/blankpage</id>
+    <link href="https://www.indiehackers.com/businesses/blankpage">
+    </link>
+    <updated>2017-08-25T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jesper Bylund tells the story behind his storytelling business. Read how he's kept ahead of the competition, adapted to new tech, and upped revenue to $1,300/mo.]]>
+    </summary>
+    <author>
+      <name>Jesper Bylund</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[rmotr.com - Remote Programming Bootcamp ($17000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/rmotr-com</id>
+    <link href="https://www.indiehackers.com/businesses/rmotr-com">
+    </link>
+    <updated>2017-08-22T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[After failing to find customers at a previous startup, the rmotr.com team set a valuable constraint for themselves: no code until the idea is validated by users.]]>
+    </summary>
+    <author>
+      <name>Santiago Basulto</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Chessable - Science-based Chess Education ($6000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/chessable</id>
+    <link href="https://www.indiehackers.com/businesses/chessable">
+    </link>
+    <updated>2017-08-21T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[David Kramaley's chess education site makes $6,000/mo. Read how he's partnered with professionals and bucked conventional wisdom on chess learning to get here.]]>
+    </summary>
+    <author>
+      <name>David Tenemaza Kramaley</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Nick Janetakis - Developer and Teacher ($5000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/nick-janetakis</id>
+    <link href="https://www.indiehackers.com/businesses/nick-janetakis">
+    </link>
+    <updated>2017-08-18T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Nick Janetakis' online courses bring in $5,000/mo. Here, he gives a crash course on what it takes to produce the courses — and to run the business that gives them life.]]>
+    </summary>
+    <author>
+      <name>Nick Janetakis</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Practical Golf - Honest Coaching for Golfers ($3000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/practical-golf</id>
+    <link href="https://www.indiehackers.com/businesses/practical-golf">
+    </link>
+    <updated>2017-08-15T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jon Sherman explains how his self-published book, like other online products, had to be tailored to solve the problems of a niche audience to get to #1 on Amazon.]]>
+    </summary>
+    <author>
+      <name>Jon Sherman</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Double Your Freelancing - Business Training for Freelancers ($78000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/double-your-freelancing</id>
+    <link href="https://www.indiehackers.com/businesses/double-your-freelancing">
+    </link>
+    <updated>2017-08-14T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[How do you sell SaaS products without an audience? Brennan Dunn's quest for an answer led him away from SaaS itself and to a $78,000/mo business selling insights.]]>
+    </summary>
+    <author>
+      <name>Brennan Dunn</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[GoDesignerGo - Flat-rate, Unlimited Graphic Design ($1500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/godesignergo</id>
+    <link href="https://www.indiehackers.com/businesses/godesignergo">
+    </link>
+    <updated>2017-08-11T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Andrew Elliott, who runs a design shop making $1,500/mo, discusses his unusual business model and the transition from wantrepreneur to entrepreneur.]]>
+    </summary>
+    <author>
+      <name>Andrew Elliott</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Ridj-it - Carpool Your Way to Adventure ($1000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/ridj-it</id>
+    <link href="https://www.indiehackers.com/businesses/ridj-it">
+    </link>
+    <updated>2017-08-08T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA["Carpool business" almost sounds like an oxymoron. The founders of Ridj-it explain the clever marketing they've used to break new ground in an untapped industry.]]>
+    </summary>
+    <author>
+      <name>Antonio Iaccarino</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Punchpass - Fitness Studio Business Software ($27000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/punchpass</id>
+    <link href="https://www.indiehackers.com/businesses/punchpass">
+    </link>
+    <updated>2017-08-07T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Chris Patton found a problem at a local fitness business and started with a simple solution. He's since grown it to over $27k/mo with clients in over 50 countries.]]>
+    </summary>
+    <author>
+      <name>Chris Patton</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[ProteusThemes - WordPress Themes for Small Businesses ($16000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/proteusthemes</id>
+    <link href="https://www.indiehackers.com/businesses/proteusthemes">
+    </link>
+    <updated>2017-08-04T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Copycats turned the early success of Primož Cigler's WordPress business into a liability. Read how he's rebounded by changing his strategy — and even his role.]]>
+    </summary>
+    <author>
+      <name>Primož Cigler</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Sidebar - Daily Newsletter of Design Links ($3000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/sidebar</id>
+    <link href="https://www.indiehackers.com/businesses/sidebar">
+    </link>
+    <updated>2017-08-01T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[In 2012, Sacha Greif created a newsletter to drive traffic to another product. Today, the newsletter makes $3k/mo and is his main source of revenue. Read how he did it.]]>
+    </summary>
+    <author>
+      <name>Sacha Greif</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[ArkServers.io - Game Server Hosting ($20000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/arkservers-io</id>
+    <link href="https://www.indiehackers.com/businesses/arkservers-io">
+    </link>
+    <updated>2017-07-31T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Sergey Tsalkov's hosting business makes $20,000/mo and has been growing by 8% per week. Learn how he has found what he calls a "ready-made audience."]]>
+    </summary>
+    <author>
+      <name>Sergey Tsalkov</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[ClusterEngine - MySQL and MariaDB as a Service  ($20000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/clusterengine</id>
+    <link href="https://www.indiehackers.com/businesses/clusterengine">
+    </link>
+    <updated>2017-07-28T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Dmitry Ivanov explains how a pivot in his product offering and trial and error with marketing and user onboarding have helped him grow his revenue to $20,000/mo.]]>
+    </summary>
+    <author>
+      <name>Dmitry Ivanov</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Examine.com - Nutrition and Supplement Database ($100000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/examine-com</id>
+    <link href="https://www.indiehackers.com/businesses/examine-com">
+    </link>
+    <updated>2017-07-25T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Sol Orwell explains how he's grown his site into a 7-figure business by becoming the definitive resource in a field where there used to be more questions than answers.]]>
+    </summary>
+    <author>
+      <name>Sol Orwell</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[DSM Website Plugins - Social Media Website Plugins ($2000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/dsm-website-plugins</id>
+    <link href="https://www.indiehackers.com/businesses/dsm-website-plugins">
+    </link>
+    <updated>2017-07-24T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Mike Dalisay explains how he has used his coding blog to validate and attract users to his social media plugins, which now bring in $2,000 a month.]]>
+    </summary>
+    <author>
+      <name>John Michael Vincent D. Dalisay</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Bugfender - Cloud Storage for Your App Logs ($6500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/bugfender</id>
+    <link href="https://www.indiehackers.com/businesses/bugfender">
+    </link>
+    <updated>2017-07-21T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Stefan Klumpp explains how his team of developers turned their own internal tool into a SaaS product for developers. It now brings in $6,500/mo.]]>
+    </summary>
+    <author>
+      <name>Stefan Klumpp</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Matboard and More - E-commerce Store for Mats and Frames ($170000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/matboard-and-more</id>
+    <link href="https://www.indiehackers.com/businesses/matboard-and-more">
+    </link>
+    <updated>2017-07-18T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Mehdi Kajbaf explains how his brothers have divided the work of engineering, industry knowledge, and marketing to grow their business to $170,000 a month.]]>
+    </summary>
+    <author>
+      <name>Mehdi Kajbaf</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Publer - Your Facebook's Superhero ($3000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/publer</id>
+    <link href="https://www.indiehackers.com/businesses/publer">
+    </link>
+    <updated>2017-07-17T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Ervin Kalemi explains how he turned his side project into a business generating $3,000/mo by marketing broadly across several social media and startup channels.]]>
+    </summary>
+    <author>
+      <name>Ervin Kalemi</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Disrupt Cards - Cards Against Humanity for Startups ($1500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/disrupt-cards</id>
+    <link href="https://www.indiehackers.com/businesses/disrupt-cards">
+    </link>
+    <updated>2017-07-14T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jordan Gonen explains how his team has grown their card game business to $1,500/mo (without paid marketing!) through scrappy engagement with their niche.]]>
+    </summary>
+    <author>
+      <name>Jordan Gonen</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Epic Plugins and Themes - Premium WordPress Plugins and Themes ($5000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/epic-plugins-and-themes</id>
+    <link href="https://www.indiehackers.com/businesses/epic-plugins-and-themes">
+    </link>
+    <updated>2017-07-11T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Michael Stott explains how the learnings of a failed side project — coupled with creative marketing — have helped him grow his WordPress business to $5,000/mo.]]>
+    </summary>
+    <author>
+      <name>Michael Stott</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Sourced Adventures - Adventure Travel Startup ($125000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/sourced-adventures</id>
+    <link href="https://www.indiehackers.com/businesses/sourced-adventures">
+    </link>
+    <updated>2017-07-10T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Kyle Davidson explains how he identified consumer demand before before building his travel service in order to grow the startup to $125,000/mo.]]>
+    </summary>
+    <author>
+      <name>Kyle Davidson</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Shoppe - Social E-commerce for Boutiques ($120000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/shoppe</id>
+    <link href="https://www.indiehackers.com/businesses/shoppe">
+    </link>
+    <updated>2017-07-04T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Ryan Frahm explains how he and his wife leveraged the power of word-of-mouth referrals to grow their platform for sellers to $120,000/mo.]]>
+    </summary>
+    <author>
+      <name>Ryan Frahm</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Kernl - Premium WordPress Updates ($550/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/kernl</id>
+    <link href="https://www.indiehackers.com/businesses/kernl">
+    </link>
+    <updated>2017-07-03T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jack Slingerland explains how he's grown his side project to $550/mo by shipping fast and reaching out to new customers when his competitors drop the ball.]]>
+    </summary>
+    <author>
+      <name>Jack Slingerland</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Flystein - Human-Powered Flight Search Service ($8000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/flystein</id>
+    <link href="https://www.indiehackers.com/businesses/flystein">
+    </link>
+    <updated>2017-06-30T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Roman Kalyakin explains how he's used data-driven marketing campaigns and industry knowledge to grow his flight hacking business to $8,000/mo.]]>
+    </summary>
+    <author>
+      <name>Roman Kalyakin</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Crowdraising - Next-Gen Crowdsourcing ($500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/crowdraising</id>
+    <link href="https://www.indiehackers.com/businesses/crowdraising">
+    </link>
+    <updated>2017-06-27T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Naveen Mishra talks about working with his co-founder to clarify their messaging and get their novel "crowdraising" business idea off the ground.]]>
+    </summary>
+    <author>
+      <name>Naveen Mishra</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Review Signal - Web Hosting Reviews ($3000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/reviewsignal</id>
+    <link href="https://www.indiehackers.com/businesses/reviewsignal">
+    </link>
+    <updated>2017-06-26T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Solo founder Kevin Ohashi built a review service that generates $3,000/mo by shifting most of his attention to marketing and building trust in a cynical market.]]>
+    </summary>
+    <author>
+      <name>Kevin Ohashi</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Sneez - eCommerce Social Selling Automation ($600/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/sneez</id>
+    <link href="https://www.indiehackers.com/businesses/sneez">
+    </link>
+    <updated>2017-06-23T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Tom Hunt explains how he used Facebook groups to find his first 20 paying subscribers within two months of launching his new business.]]>
+    </summary>
+    <author>
+      <name>Tom Hunt</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Felix - Autopay for Freelancers ($100/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/felix</id>
+    <link href="https://www.indiehackers.com/businesses/felix">
+    </link>
+    <updated>2017-06-21T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Thomas Howell got tired of manually invoicing his clients, so he built and launched a payment system to automate the entire process. Here's how he did it.]]>
+    </summary>
+    <author>
+      <name>Thomas Howell</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Site Builder Report - Website Builder Reviews ($44000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/site-builder-report</id>
+    <link href="https://www.indiehackers.com/businesses/site-builder-report">
+    </link>
+    <updated>2017-06-20T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Instead of struggling to stand out in a crowded marketplace, Steve Benjamins took advantage of the competition and built a review site that makes over $40,000/mo.]]>
+    </summary>
+    <author>
+      <name>Steve Benjamins</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[BuildMyEmails - Email Marketing Simplified ($1500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/buildmyemails</id>
+    <link href="https://www.indiehackers.com/businesses/buildmyemails">
+    </link>
+    <updated>2017-06-19T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Co-founders Shevon and Chris explain how they found a valuable gap in the market, hired some development help, and grew revenue to $1,500/mo.]]>
+    </summary>
+    <author>
+      <name>Shevon Perera</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Free Vector Maps - Free Vector Maps ($2000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/freevector-maps</id>
+    <link href="https://www.indiehackers.com/businesses/freevector-maps">
+    </link>
+    <updated>2017-06-16T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Ted Grajeda explains how he's grown his niche mapping business to $2,000 a month by focusing on SEO and targeting customers at a global scale.]]>
+    </summary>
+    <author>
+      <name>Ted Grajeda</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Scott's Cheap Flights - Cheap Flights Subscription Service ($320000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/scotts-cheap-flights</id>
+    <link href="https://www.indiehackers.com/businesses/scotts-cheap-flights">
+    </link>
+    <updated>2017-06-13T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Scott and Brian explain how they grew a small side project into a booming businesses with over 600,000 subscribers and $4 million in annual revenue.]]>
+    </summary>
+    <author>
+      <name>Scott and Brian</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Gourmet Pup Club - Dog Treat Subscription Service ($800/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/gourmet-pup-club</id>
+    <link href="https://www.indiehackers.com/businesses/gourmet-pup-club">
+    </link>
+    <updated>2017-06-12T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Learn how Ansel Ponce Diama engaged in brute-force marketing tactics to validate his idea and build up an email list of 1,000 subscribers in his first month.]]>
+    </summary>
+    <author>
+      <name>Ansel Ponce Diama</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Intrinio - Financial Data and Analytics Market ($10000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/intrinio</id>
+    <link href="https://www.indiehackers.com/businesses/intrinio">
+    </link>
+    <updated>2017-06-09T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Learn how Intrinio's mission to stay scrappy, affordable, and approachable has helped them develop a freemium product that reaches thousands of customers.]]>
+    </summary>
+    <author>
+      <name>Andrew Carpenter</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Mailbird - Unifies All Online Communications ($60000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/mailbird</id>
+    <link href="https://www.indiehackers.com/businesses/mailbird">
+    </link>
+    <updated>2017-06-06T13:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Mohammad Dimas explains how he and his team grew their app to $60,000 a month by filling a gap in the Windows platform and quickly going to market.]]>
+    </summary>
+    <author>
+      <name>Mohammad Dimas</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Baremetrics - Revenue Analytics Platform ($83000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/baremetrics</id>
+    <link href="https://www.indiehackers.com/businesses/baremetrics">
+    </link>
+    <updated>2017-06-05T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Learn how Josh Pigford identified a valuable pain point for businesses, rapidly iterated on his early product, went on to grow revenue to over $80,000/month.]]>
+    </summary>
+    <author>
+      <name>Josh Pigford</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[QuickDraw - Affiliate Marketing Reporting ($1500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/quickdraw</id>
+    <link href="https://www.indiehackers.com/businesses/quickdraw">
+    </link>
+    <updated>2017-06-02T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Heath Bertini explains how a problem at work led to a product idea, and how he partnered with a developer to turn it into a profitable side project.]]>
+    </summary>
+    <author>
+      <name>Heath Bertini</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[GifShare - Instagram Gif Editor ($10000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/gifshare</id>
+    <link href="https://www.indiehackers.com/businesses/gifshare">
+    </link>
+    <updated>2017-05-30T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Rob Caraway explains how he carefully conducted market research to find and validate an idea for a suite of mobile apps that netted him over $240,000.]]>
+    </summary>
+    <author>
+      <name>Rob Caraway</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[ThemeIsle - Freemium WordPress Themes ($50000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/themeisle</id>
+    <link href="https://www.indiehackers.com/businesses/themeisle">
+    </link>
+    <updated>2017-05-29T15:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Ionut Neagu created a WordPress themes site that makes $50,000/month. Learn how his past failures and dogged persistence helped him get to this point.]]>
+    </summary>
+    <author>
+      <name>Ionut Neagu</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Angular on Rails - Teaching Angular to Rails Developers ($745/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/angular-on-rails</id>
+    <link href="https://www.indiehackers.com/businesses/angular-on-rails">
+    </link>
+    <updated>2017-05-28T18:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jason Swett explains how he identified an underdocumented technical topic, became an expert, and turned his knowledge into an eBook that makes $750/mo.]]>
+    </summary>
+    <author>
+      <name>Jason Swett</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Offscreen Magazine - Magazine About Tech People ($10000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/offscreen-magazine</id>
+    <link href="https://www.indiehackers.com/businesses/offscreen-magazine">
+    </link>
+    <updated>2017-05-25T16:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Learn how Kai Brach has overcome the hurdles to publishing an indie print magazine and managed to build a one-man operation that sustains him full-time.]]>
+    </summary>
+    <author>
+      <name>Kai Brach</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[SendPulse - Maximizing Email Open Rates ($200000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/sendpulse</id>
+    <link href="https://www.indiehackers.com/businesses/sendpulse">
+    </link>
+    <updated>2017-05-23T13:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Constantine Rozenshtraus thought tools in the email marketing industry were solving the wrong problem. Learn how he's grown his own solution to $200,000/mo.]]>
+    </summary>
+    <author>
+      <name>Constantine Rozenshtraus</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[UX Power Tools - Sketch Design Framework and UI Kit ($16000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/ux-power-tools</id>
+    <link href="https://www.indiehackers.com/businesses/ux-power-tools">
+    </link>
+    <updated>2017-05-22T13:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[How Christian Beck and Jon Moore combined their desire to make passive income with the skills they've picked up on the job to create a viable business.]]>
+    </summary>
+    <author>
+      <name>Christian Beck</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Ladder - Growth Marketing Agency + Tech ($200000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/ladder</id>
+    <link href="https://www.indiehackers.com/businesses/ladder">
+    </link>
+    <updated>2017-05-17T12:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jon Brody explains how the data-driven decision-making skills he learned as a professional poker player helped him grow his agency's revenue to $200,000/mo.]]>
+    </summary>
+    <author>
+      <name>Jonathan Brody</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[NinjaOutreach - Lead Prospecting and Outreach Tool ($50000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/ninjaoutreach</id>
+    <link href="https://www.indiehackers.com/businesses/ninjaoutreach">
+    </link>
+    <updated>2017-05-16T15:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Dave Schneider explains how he broke through a long plateau of revenue stagnation and went on to grow his business to $50,000/month.]]>
+    </summary>
+    <author>
+      <name>Dave Schneider</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[UXClub.com - Learning Platform for UX Designers ($450/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/uxclub-com</id>
+    <link href="https://www.indiehackers.com/businesses/uxclub-com">
+    </link>
+    <updated>2017-05-15T15:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Ed Vinicombe explains how he turned a skill he already had into a profitable side project by avoiding common mistakes made by others in the industry.]]>
+    </summary>
+    <author>
+      <name>Ed Vinicombe</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Cronometer - Nutrition Tracker ($40000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/cronometer</id>
+    <link href="https://www.indiehackers.com/businesses/cronometer">
+    </link>
+    <updated>2017-05-09T14:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Learn how a little bit of patience and a very solid product helped Aaron Davidson turn his small side project into a business that does $40,000/mo in revenue.]]>
+    </summary>
+    <author>
+      <name>Aaron Davidson</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[KidGenius - Management Software for Childcare ($300/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/kidgenius</id>
+    <link href="https://www.indiehackers.com/businesses/kidgenius">
+    </link>
+    <updated>2017-05-08T12:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Craig Pearce knew nothing about the childcare industry except that it had little online presence. Read how he engaged with his first users to grow to $300/mo.]]>
+    </summary>
+    <author>
+      <name>Craig Pearce</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Conscious Apps - App Development with a Purpose ($1000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/conscious-apps</id>
+    <link href="https://www.indiehackers.com/businesses/conscious-apps">
+    </link>
+    <updated>2017-05-05T09:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Martin Adams discusses the technical challenges he overcame to build and eventually sell a $10 app to over 20,000 customers on the App Store.]]>
+    </summary>
+    <author>
+      <name>Martin Adams</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Discourse - Forum / Community Website Software ($120000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/discourse</id>
+    <link href="https://www.indiehackers.com/businesses/discourse">
+    </link>
+    <updated>2017-05-02T16:00:00Z</updated>
+    <summary type="html">
+      <![CDATA["Sell to people who have money!" Jeff Atwood explains how targeting high-value businesses instead of consumers helped grow Discourse's revenue to $120,000/mo.]]>
+    </summary>
+    <author>
+      <name>Jeff Atwood</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Weather Extension - Best Way to Check the Weather ($2500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/weather-extension</id>
+    <link href="https://www.indiehackers.com/businesses/weather-extension">
+    </link>
+    <updated>2017-05-01T16:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Tim Leland talks about how sharing helpful knowledge on his blog helped him build an audience and grow his app's revenue to $2,500/month.]]>
+    </summary>
+    <author>
+      <name>Tim Leland</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[BugTower - Simple Bug Tracking Web App ($820/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/bugtower</id>
+    <link href="https://www.indiehackers.com/businesses/bugtower">
+    </link>
+    <updated>2017-04-28T18:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Kyle Connors explains how he grew his side project to $800/mo by identifying the challenges that kept him from finishing and launching his products in the past.]]>
+    </summary>
+    <author>
+      <name>Kyle Connors</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[RecurPost - Smart Social Media Management ($4000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/recurpost</id>
+    <link href="https://www.indiehackers.com/businesses/recurpost">
+    </link>
+    <updated>2017-04-25T14:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[After struggling to find an audience in the past, Dinesh Agarwal narrowed his focus to a simple problem, reached out to customers 1-on-1, and grew to $4,000/month.]]>
+    </summary>
+    <author>
+      <name>Dr. Dinesh Agarwal</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Salem Software - Spanish Language Bible iOS App ($10000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/salem-software</id>
+    <link href="https://www.indiehackers.com/businesses/salem-software">
+    </link>
+    <updated>2017-04-24T13:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Trevor McKendrick explains how he identified a gap in the market, continuously adapted his business model, and grew his mobile app's revenue to $10,000/month.]]>
+    </summary>
+    <author>
+      <name>Trevor McKendrick</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Gifty Weddings - Simple Wedding Gift Registry ($150/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/gifty-weddings</id>
+    <link href="https://www.indiehackers.com/businesses/gifty-weddings">
+    </link>
+    <updated>2017-04-21T13:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Learn how Ben Hoyt's side project has helped him pay the bills for almost 10 years.]]>
+    </summary>
+    <author>
+      <name>Ben Hoyt</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Lighting Shoes - Shopify Store for LED Shoes ($10000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/lighting-shoes</id>
+    <link href="https://www.indiehackers.com/businesses/lighting-shoes">
+    </link>
+    <updated>2017-04-18T10:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Dan Rusu bought an e-commerce company he knew nothing about. Read how savvy marketing has put it on track to double its revenue in less than two months.]]>
+    </summary>
+    <author>
+      <name>Dan Rusu</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[The UI Audit - Web Application Design Book ($1200/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/the-ui-audit</id>
+    <link href="https://www.indiehackers.com/businesses/the-ui-audit">
+    </link>
+    <updated>2017-04-17T10:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[In 2015, web design expert Jane Portman decided not to take any more consulting jobs. Learn how she turned her knowledge into a book that makes $1,200/mo.]]>
+    </summary>
+    <author>
+      <name>Jane Portman</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[AppToolkit.io - Marketing Tools for App Developers ($1000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/apptoolkit</id>
+    <link href="https://www.indiehackers.com/businesses/apptoolkit">
+    </link>
+    <updated>2017-04-17T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Ross Rojek and his wife Heidi talk about using open-source code and a variety of marketing channels to build a suite of profitable apps for mobile developers.]]>
+    </summary>
+    <author>
+      <name>Ross Rojek</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[SaferVPN - The Fastest and Simplest VPN ($20000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/safervpn</id>
+    <link href="https://www.indiehackers.com/businesses/safervpn">
+    </link>
+    <updated>2017-04-11T14:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Learn about the numerous product and marketing strategies Sagi Gidali and Amit Bareket used to grow their VPN business' revenue to well over $20,000/month.]]>
+    </summary>
+    <author>
+      <name>Sagi Gidali</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Snappa - Graphic Design Tool ($26240/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/snappa</id>
+    <link href="https://www.indiehackers.com/businesses/snappa">
+    </link>
+    <updated>2017-04-10T14:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Learn how Christopher Gimmer uses low-cost marketing strategies to generate $26,000/month in revenue from lots of customers at a low price point.]]>
+    </summary>
+    <author>
+      <name>Christopher Gimmer</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Hacker News Books - Top Books from Hacker News ($300/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/hacker-news-books</id>
+    <link href="https://www.indiehackers.com/businesses/hacker-news-books">
+    </link>
+    <updated>2017-04-07T07:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Ivan Delchev explains how he validated a hunch and then used automation to create a product that generates $300 per month in passive income.]]>
+    </summary>
+    <author>
+      <name>Ivan Delchev</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Cash Overflow - Personal Finance Blog ($3000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/cash-overflow</id>
+    <link href="https://www.indiehackers.com/businesses/cash-overflow">
+    </link>
+    <updated>2017-04-04T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Starting a newsletter or a blog? Learn how Pardeep Goyal makes $3,000 a month by creating high quality content for a small group of motivated subscribers.]]>
+    </summary>
+    <author>
+      <name>Pardeep Goyal</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[AccelerList - Amazon Product Listing ($2400/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/accelerlist</id>
+    <link href="https://www.indiehackers.com/businesses/accelerlist">
+    </link>
+    <updated>2017-04-03T16:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Travis R. explains how he found his first paying customers by knowing where they hung out online and by focusing exclusively on features that they'd find valuable.]]>
+    </summary>
+    <author>
+      <name>Travis R.</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Workshop - Leads for Designers + Developers ($12000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/workshop</id>
+    <link href="https://www.indiehackers.com/businesses/workshop">
+    </link>
+    <updated>2017-03-31T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Robert Williams describes how he generated $3000 MRR in his first week by solving his own problem and quickly creating a landing page for a low-tech prototype.]]>
+    </summary>
+    <author>
+      <name>Robert Williams</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Queryfeed - Social Network Grabber ($150/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/queryfeed</id>
+    <link href="https://www.indiehackers.com/businesses/queryfeed">
+    </link>
+    <updated>2017-03-29T18:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Ivan Grishaev talks about building an app that he loves, generating recurring revenue, and reducing churn by talking to customers.]]>
+    </summary>
+    <author>
+      <name>Ivan Grishaev</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[MyClean - You Click. We Clean. You Relax. ($750000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/myclean</id>
+    <link href="https://www.indiehackers.com/businesses/myclean">
+    </link>
+    <updated>2017-03-27T18:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Michael Scharf explains how he grew revenue to $750,000/month by ignoring VC pressure to grow rapidly and focusing instead on sustainability and quality.]]>
+    </summary>
+    <author>
+      <name>Michael Scharf</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Founderkit - Reviews on Startup Tools ($5000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/founderkit</id>
+    <link href="https://www.indiehackers.com/businesses/founderkit">
+    </link>
+    <updated>2017-03-24T15:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Learn how Ryan Mickle and Ian Hunter turned their prototype into a product, reached out to customers, and grew to $5000/mo just two months after launch.]]>
+    </summary>
+    <author>
+      <name>Ryan Mickle</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Amplifr - Social Media Scheduling and Analytics ($15500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/amplifr</id>
+    <link href="https://www.indiehackers.com/businesses/amplifr">
+    </link>
+    <updated>2017-03-22T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Nate Gadzhibalaev's shows you how to turn consulting revenue into a $16,000/mo product, and how to use ads to avoid spending years on a product doomed to fail.]]>
+    </summary>
+    <author>
+      <name>Nate Gadzhibalaev</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Insomnia - Graphical API Client ($800/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/insomnia</id>
+    <link href="https://www.indiehackers.com/businesses/insomnia">
+    </link>
+    <updated>2017-03-21T19:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Gregory Schier talks about growing his apps monthly recurring revenue, his journey toward financial independence, and why it's crucial to learn to finish what you start.]]>
+    </summary>
+    <author>
+      <name>Gregory Schier</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Less Annoying CRM - Simple CRM for Small Businesses ($120000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/less-annoying-crm</id>
+    <link href="https://www.indiehackers.com/businesses/less-annoying-crm">
+    </link>
+    <updated>2017-03-20T19:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Tyler King explains how he's grown revenue to $120,000/mo by focusing on product quality, prioritizing customer support, and being patient where others might rush.]]>
+    </summary>
+    <author>
+      <name>Tyler King</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Anatomonics - Anatomy Memorization System ($800/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/anatomonics</id>
+    <link href="https://www.indiehackers.com/businesses/anatomonics">
+    </link>
+    <updated>2017-03-15T18:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Michael Benkovich describes how he used keyword research to develop an idea, a landing page to validate it, and YouTube to attract a stready stream of customers.]]>
+    </summary>
+    <author>
+      <name>Michael Benkovich</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Marketing for Developers - Course for Indie Programmers ($10000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/marketing-for-developers</id>
+    <link href="https://www.indiehackers.com/businesses/marketing-for-developers">
+    </link>
+    <updated>2017-03-14T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Learn how Justin Jackson built an audience and used an email launch sequence to make $20,000 from his popular book-course combo, Marketing for Developers.]]>
+    </summary>
+    <author>
+      <name>Justin Jackson</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Iconic - WooCommerce Plugins ($4100/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/iconic</id>
+    <link href="https://www.indiehackers.com/businesses/iconic">
+    </link>
+    <updated>2017-03-13T19:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[James Kemp's collection of WooCommerce plugins earn $4100/mo. Learn how he's finding customers via content marketing and store-based distribution channels.]]>
+    </summary>
+    <author>
+      <name>James Kemp</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[wallabag.it - Save Articles for Later ($600/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/wallabag-it</id>
+    <link href="https://www.indiehackers.com/businesses/wallabag-it">
+    </link>
+    <updated>2017-03-08T15:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Nicolas Lœuillet talks about how he's making money from his open-source app by charging for an easy-to-use version for privacy-conscious users.]]>
+    </summary>
+    <author>
+      <name>Nicolas Lœuillet</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Videoder - Video & Music Downloader ($12000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/videoder</id>
+    <link href="https://www.indiehackers.com/businesses/videoder">
+    </link>
+    <updated>2017-03-07T14:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Surbhi Singla talks about growing to over 30 million downloads by targeting a global audience, getting social media right, and doubling down on product quality.]]>
+    </summary>
+    <author>
+      <name>Rahul Verma</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[ConvertKit - Email Marketing for Bloggers ($597000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/convertkit</id>
+    <link href="https://www.indiehackers.com/businesses/convertkit">
+    </link>
+    <updated>2017-03-06T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[In 2013, Nathan Barry challenged himself to start a software company. Today, ConvertKit generates $600,000 every month. Here's how he did it.]]>
+    </summary>
+    <author>
+      <name>Nathan Barry</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Designhill - Leading Graphic Design Marketplace ($110000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/designhill</id>
+    <link href="https://www.indiehackers.com/businesses/designhill">
+    </link>
+    <updated>2017-03-01T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[The Aggarwal brothers explain how they bootstrapped their marketplace to $1.3M ARR by talking to customers, writing shareable content, and relentlessly A/B testing.]]>
+    </summary>
+    <author>
+      <name>Varun Aggarwal</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[SelfDecode - Digital Health Coach with Genetics ($16900/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/selfdecode</id>
+    <link href="https://www.indiehackers.com/businesses/selfdecode">
+    </link>
+    <updated>2017-02-28T06:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Alan Warsoff and Joe Cohen make $17,000/month analyzing people's genes and providing lifestyle recommendations. Learn how they built and grew their business.]]>
+    </summary>
+    <author>
+      <name>Alan Warsoff</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Photon - Solar Panel Installation App ($1000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/photon</id>
+    <link href="https://www.indiehackers.com/businesses/photon">
+    </link>
+    <updated>2017-02-27T20:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Photon co-founder Andy Qin talks about building an app for the solar industry, learning from their customers, and growing revenue to $1,000/month.]]>
+    </summary>
+    <author>
+      <name>Andy Qin</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Ghost - Professional Publishing Platform ($62000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/ghost</id>
+    <link href="https://www.indiehackers.com/businesses/ghost">
+    </link>
+    <updated>2017-02-23T15:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[John O'Nolan talks about getting 30,000 mailing list signups, raising $300,000 on Kickstarter, and growing his open-source publishing platform to $750,000/year.]]>
+    </summary>
+    <author>
+      <name>John O&apos;Nolan</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[mugpods - Nespresso Compatible Pods ($15000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/mugpods</id>
+    <link href="https://www.indiehackers.com/businesses/mugpods">
+    </link>
+    <updated>2017-02-21T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jack Bramhall describes how he sourced a world-first product and then continually re-invested profits to bootstrap sales to over $15,000/mo.]]>
+    </summary>
+    <author>
+      <name>Jack Bramhall</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Cronitor.io - Monitor Scheduled Tasks and Services ($6000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/cronitor</id>
+    <link href="https://www.indiehackers.com/businesses/cronitor">
+    </link>
+    <updated>2017-02-17T21:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[August Flanagan explains how he identified a simple problem, built a barebones solution on the side, found customers, and grew revenue to $6000/mo.]]>
+    </summary>
+    <author>
+      <name>August Flanagan</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Vettery - Talent Marketplace ($null/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/vettery</id>
+    <link href="https://www.indiehackers.com/businesses/vettery">
+    </link>
+    <updated>2017-02-14T22:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Adam Goldstein explains how Vettery has grown to 10,000+ job applications/month by bringing new technology and creative marketing to the aging recruiting industry.]]>
+    </summary>
+    <author>
+      <name>Adam Goldstein</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[IdeaCheck.io - Idea Validation Tool ($1500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/ideacheck-io</id>
+    <link href="https://www.indiehackers.com/businesses/ideacheck-io">
+    </link>
+    <updated>2017-02-10T23:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Nick Fischer is using his PhD knowledge to help investors and businesses evaluate their ideas. Learn how he's found customers and grown revenue to $1500/mo.]]>
+    </summary>
+    <author>
+      <name>Nick Fischer</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Compelling Science Fiction - Online Science Fiction Magazine ($900/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/compelling-science-fiction</id>
+    <link href="https://www.indiehackers.com/businesses/compelling-science-fiction">
+    </link>
+    <updated>2017-02-08T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Joe Stech talks about reading thousands of stories, landing lucrative sponsorships, and launching his own science fiction magazine to over 3000 readers.]]>
+    </summary>
+    <author>
+      <name>Joe Stech</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Stock Trading Bot - High Frequency Trading Bot ($3500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/stock-trading-bot</id>
+    <link href="https://www.indiehackers.com/businesses/stock-trading-bot">
+    </link>
+    <updated>2017-02-07T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Sebastian Dobrincu built a neural net for high frequency trading as a side project, and today it makes $3500/mo. Learn how he built it and what he's doing to grow.]]>
+    </summary>
+    <author>
+      <name>Sebastian Dobrincu</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Big Blue Saw - Ideas + Designs into Real Parts ($45000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/big-blue-saw</id>
+    <link href="https://www.indiehackers.com/businesses/big-blue-saw">
+    </link>
+    <updated>2017-02-03T12:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Simon Arthur describes how he identified and solved a valuable problem in the hardware space and steadily grew his business to $45,000/month in revenue.]]>
+    </summary>
+    <author>
+      <name>Simon Arthur</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Overcharge.tv - Twitch Stream Companion ($500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/overcharge-tv</id>
+    <link href="https://www.indiehackers.com/businesses/overcharge-tv">
+    </link>
+    <updated>2017-02-02T18:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Stew Houston talks about the importance of user feedback during product development, and of fighting hard for every user to kickstart growth.]]>
+    </summary>
+    <author>
+      <name>Stew Houston</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Zencastr - High Fidelity Podcast Recording ($12600/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/zencastr</id>
+    <link href="https://www.indiehackers.com/businesses/zencastr">
+    </link>
+    <updated>2017-01-31T08:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Josh Nielsen explains how he spent two years growing Zencastr to 15,000 users and $12k/mo in revenue by capitalizing on market trends and new technologies.]]>
+    </summary>
+    <author>
+      <name>Josh Nielsen</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Candy Japan - Japanese Candy Subscription Box ($15000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/candy-japan</id>
+    <link href="https://www.indiehackers.com/businesses/candy-japan">
+    </link>
+    <updated>2017-01-30T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Bemmu Sepponen makes $15k/mo selling candy online. In this interview, he shares the principles that have helped him succeed in growing his business over 5 years.]]>
+    </summary>
+    <author>
+      <name>Bemmu Sepponen</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Index Nuke - Backlink Indexer Tool ($4000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/index-nuke</id>
+    <link href="https://www.indiehackers.com/businesses/index-nuke">
+    </link>
+    <updated>2017-01-26T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Paddy Coyne explains how he's grown Index Nuke's revenue to $4000/mo in just over a year, and talks about the importance of hitting sales hard early on.]]>
+    </summary>
+    <author>
+      <name>Paddy Coyne</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Handle - To-do + Calendar + Email ($500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/handle</id>
+    <link href="https://www.indiehackers.com/businesses/handle">
+    </link>
+    <updated>2017-01-24T23:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Kris Gellci shares the story behind how he inherited a failed startup and his plans for turning it into a sustainable business as a single founder.]]>
+    </summary>
+    <author>
+      <name>Kris Gellci</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Menumake - Menu Making Tool for VK.com ($1000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/menumake</id>
+    <link href="https://www.indiehackers.com/businesses/menumake">
+    </link>
+    <updated>2017-01-23T14:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Alex Moskovski explains how he identified a problem by analyzing keywords in search queries and built a simple solution that makes over $1000/mo.]]>
+    </summary>
+    <author>
+      <name>Alex Moskovski</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Smooz - Slack-to-Slack Shared Channels ($375/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/smooz</id>
+    <link href="https://www.indiehackers.com/businesses/smooz">
+    </link>
+    <updated>2017-01-18T02:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Matthieu Varagnat explores the benefits of simplicity and of forming personal relationships with customers on his journey to 1000€/mo in revenue.]]>
+    </summary>
+    <author>
+      <name>Matthieu Varagnat</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Publishing Push - Transparent PR For Authors ($6200/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/publishing-push</id>
+    <link href="https://www.indiehackers.com/businesses/publishing-push">
+    </link>
+    <updated>2017-01-17T01:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Patrick Walsh talks about growing Publishing Push to $6000/mo by outsourcing and automating work and doubling down on effective marketing strategies.]]>
+    </summary>
+    <author>
+      <name>Patrick Walsh</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[FireFTP and FireSSH - FTP and SSH for the Browser ($1350/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/fireftp-and-firessh</id>
+    <link href="https://www.indiehackers.com/businesses/fireftp-and-firessh">
+    </link>
+    <updated>2017-01-16T03:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Mime Čuvalo explains how following his principles and contributing to a larger movement helped him earn over $160,000 in donations from his apps.]]>
+    </summary>
+    <author>
+      <name>Mime Čuvalo</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Checkers - iMessage Game ($600/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/checkers</id>
+    <link href="https://www.indiehackers.com/businesses/checkers">
+    </link>
+    <updated>2017-01-11T23:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Bartłomiej Kozal explains how he launched a mobile game that makes $600/mo by getting the timing right and thinking about the market from the beginning.]]>
+    </summary>
+    <author>
+      <name>Bartłomiej Kozal</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Homey - Chores and Allowance App ($300/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/homey</id>
+    <link href="https://www.indiehackers.com/businesses/homey">
+    </link>
+    <updated>2017-01-10T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Sanja Zepan discusses the benefits of gathering early feedback, launching prematurely, and moving to where her customers live.]]>
+    </summary>
+    <author>
+      <name>Sanja Zepan</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Grasshopper - Virtual Phone for Entrepreneurs ($2500000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/grasshopper</id>
+    <link href="https://www.indiehackers.com/businesses/grasshopper">
+    </link>
+    <updated>2017-01-08T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[David Hauser and Siamak Taghaddos identified a valuable problem and bootstrapped their business to $30M in annual revenue. Here's how.]]>
+    </summary>
+    <author>
+      <name>David Hauser</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Proposeful - Online Business Proposal Software ($400/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/proposeful</id>
+    <link href="https://www.indiehackers.com/businesses/proposeful">
+    </link>
+    <updated>2017-01-04T23:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Thiago Obaid spent 8 months making cold calls, talking to customers, and incorporating their feedback into Proposeful. Here's what he learned.]]>
+    </summary>
+    <author>
+      <name>Thiago Obaid</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Fundraising Report Card - Fundraising Analytics for Nonprofits ($7500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/fundraising-report-card</id>
+    <link href="https://www.indiehackers.com/businesses/fundraising-report-card">
+    </link>
+    <updated>2017-01-04T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Zach Shefska explains how talking to customers via LinkedIn groups, cold emails, phone calls, and more helped him grow Fundraising Report Card to $7500/mo.]]>
+    </summary>
+    <author>
+      <name>Zach Shefska</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Hello Weather - Exceptionally Useful Weather App ($600/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/hello-weather</id>
+    <link href="https://www.indiehackers.com/businesses/hello-weather">
+    </link>
+    <updated>2017-01-02T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jonas Downey talks about design as a competitive advantage, the challenges of succeeding on the App Store, and the economics of running a side project.]]>
+    </summary>
+    <author>
+      <name>Jonas Downey</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Simple Steps Code - Web Development Courses ($650/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/simple-steps-code</id>
+    <link href="https://www.indiehackers.com/businesses/simple-steps-code">
+    </link>
+    <updated>2016-12-29T15:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Yaphi Berhanu talks about validating his idea, researching his customers' problems, and limiting focus to the most effective marketing and revenue channels.]]>
+    </summary>
+    <author>
+      <name>Yaphi Berhanu</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Creative Tim - UI Kits, Templates, and Dashboards ($17000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/creative-tim</id>
+    <link href="https://www.indiehackers.com/businesses/creative-tim">
+    </link>
+    <updated>2016-12-28T18:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Alexandru Paduraru explains how a great product, a freemium business model, and ideal distribution channels helped Creative Tim grow revenues to $17k/month.]]>
+    </summary>
+    <author>
+      <name>Alexandru Paduraru</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Product Manager HQ - Community for Product Managers ($6000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/product-manager-hq</id>
+    <link href="https://www.indiehackers.com/businesses/product-manager-hq">
+    </link>
+    <updated>2016-12-22T21:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Kevin Lee shares the story behind how he broke into product management and built a community resource to help others that now generates $6000/mo.]]>
+    </summary>
+    <author>
+      <name>Kevin Lee</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[CrazyLister - Easily Create Professional eBay Listings ($50000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/crazylister</id>
+    <link href="https://www.indiehackers.com/businesses/crazylister">
+    </link>
+    <updated>2016-12-20T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Maxim Godin explains how he's grown his business to $50,000/mo in revenue by bringing easy-to-use professional design to the world of eBay listings.]]>
+    </summary>
+    <author>
+      <name>Maxim Godin</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[PageProofer - Visual Feedback Tool ($1000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/pageproofer</id>
+    <link href="https://www.indiehackers.com/businesses/pageproofer">
+    </link>
+    <updated>2016-12-20T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Derrick Grigg discusses the valuable lessons he's learned about launching quickly and developing a marketing strategy while growing his business to $1000/mo.]]>
+    </summary>
+    <author>
+      <name>Derrick Grigg</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Go Registry Hub - Gift Registry ($150/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/my-registry-hub</id>
+    <link href="https://www.indiehackers.com/businesses/my-registry-hub">
+    </link>
+    <updated>2016-12-19T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Bas Kuis talks about building his gift registry side project from scratch and the importance of testing your UX assumptions.]]>
+    </summary>
+    <author>
+      <name>Bas Kuis</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Paleo Meal Plans - Meal Planning Service ($15000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/paleo-meal-plans</id>
+    <link href="https://www.indiehackers.com/businesses/paleo-meal-plans">
+    </link>
+    <updated>2016-12-14T19:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Joel Runyon explains how focusing on email marketing, iterating on his product, and targeting the right users helped his business grow to $15,000/mo in revenue.]]>
+    </summary>
+    <author>
+      <name>Joel Runyon</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Value Forest - Classifieds Search Aggregator ($1000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/value-forest</id>
+    <link href="https://www.indiehackers.com/businesses/value-forest">
+    </link>
+    <updated>2016-12-14T05:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[David Kaplan built an aggregator for classifieds that brings in $1000/mo. Here's how.]]>
+    </summary>
+    <author>
+      <name>David Kaplan</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[HTML Color Codes - Color Picker and Reference Tool ($1300/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/html-color-codes</id>
+    <link href="https://www.indiehackers.com/businesses/html-color-codes">
+    </link>
+    <updated>2016-12-13T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Dixon and Moe talk about growing their project to $1300/mo by focusing on great design, using open-source tools, and finding solid distribution channels.]]>
+    </summary>
+    <author>
+      <name>Moe Amaya</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Hack Pacific - Online Courses You Will Finish ($1500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/hack-pacific</id>
+    <link href="https://www.indiehackers.com/businesses/hack-pacific">
+    </link>
+    <updated>2016-12-07T21:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Harry Chen talks about growing his online course business to $1500/mo by keeping things lean, rigorously testing hypotheses, and iterating quickly.]]>
+    </summary>
+    <author>
+      <name>Harry Chen</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Readability-Score.com - Quality Control for Content ($4000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/readability-score</id>
+    <link href="https://www.indiehackers.com/businesses/readability-score">
+    </link>
+    <updated>2016-12-06T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[How Dave Child's quest for financial independence led him to create a website that generates $5,000/mo by helping writers improve their content.]]>
+    </summary>
+    <author>
+      <name>Dave Child</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Planio - Project Collaboration SaaS ($75000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/planio</id>
+    <link href="https://www.indiehackers.com/businesses/planio">
+    </link>
+    <updated>2016-12-02T02:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jan Schulz-Hofen talks about maintaining a strong product vision, experimenting with pricing, and bootstrapping Planio to $75,000/mo in revenue.]]>
+    </summary>
+    <author>
+      <name>Jan Schulz-Hofen</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Logojoy - AI-Powered Logo Maker ($70000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/logojoy</id>
+    <link href="https://www.indiehackers.com/businesses/logojoy">
+    </link>
+    <updated>2016-11-29T04:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Dawson Whitfield created an AI-powered logo creator that's 10x better than the competition, and he's now making $70,000/month in revenue. Here's how.]]>
+    </summary>
+    <author>
+      <name>Dawson Whitfield</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Wanqu - Article Curation for a Chinese Audience ($1200/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/wanqu</id>
+    <link href="https://www.indiehackers.com/businesses/wanqu">
+    </link>
+    <updated>2016-11-28T23:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Wanqu's anonymous founder explains how automation, social media, and his unique experiences in Silicon Valley have helped grow his business.]]>
+    </summary>
+    <author>
+      <name>Anonymous</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Eliot Peper - Tech Thriller Novels ($3500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/eliot-peper</id>
+    <link href="https://www.indiehackers.com/businesses/eliot-peper">
+    </link>
+    <updated>2016-11-26T22:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Eliot Peper talks traveling the world, diving in head first as a writer, marketing products and generating buzz, and making $3,500/mo from his tech thriller novels.]]>
+    </summary>
+    <author>
+      <name>Eliot Peper</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[MoonMail - Cloud Email Marketing ($700/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/moonmail</id>
+    <link href="https://www.indiehackers.com/businesses/moonmail">
+    </link>
+    <updated>2016-11-24T03:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Alexandre Saiz talks about how smart tech choices and an existing base of customers helped him grow MoonMail to $700/mo in revenue.]]>
+    </summary>
+    <author>
+      <name>Alexandre Saiz</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Kanban for WordPress - Kanban Board WordPress Plugin ($350/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/kanban-for-wordpress</id>
+    <link href="https://www.indiehackers.com/businesses/kanban-for-wordpress">
+    </link>
+    <updated>2016-11-22T23:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Corey Maass talks about the resources, principles, and best-practices he's followed to generate $350/mo from his WordPress-based side project.]]>
+    </summary>
+    <author>
+      <name>Corey Maass</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Maître - Viral Waiting List ($3500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/maitre</id>
+    <link href="https://www.indiehackers.com/businesses/maitre">
+    </link>
+    <updated>2016-11-22T16:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Manuel Frigerio explains how charging from the beginning and offering great customer support helped him grow his business to $3,500/mo in its first year.]]>
+    </summary>
+    <author>
+      <name>Manuel Frigerio</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[CustomFilterz - Snapchat Geofilter Design ($10950/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/customfilterz</id>
+    <link href="https://www.indiehackers.com/businesses/customfilterz">
+    </link>
+    <updated>2016-11-18T15:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jason Slater and Linas Vildziunas give a behind-the-scenes look at how they're growing their Snapchat geofilters business to their goal of $10,000/mo.]]>
+    </summary>
+    <author>
+      <name>Jason Slater</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[AuGrav - 3D Printed Personalized Jewelry ($15000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/augrav</id>
+    <link href="https://www.indiehackers.com/businesses/augrav">
+    </link>
+    <updated>2016-11-17T16:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Vivek Krishna discusses the unique challenges he overcame to grow his marketplace for personalized jewelry to $15,000/mo in revenue.]]>
+    </summary>
+    <author>
+      <name>Vivek Krishna</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[PentesterLab - Learn Web Application Hacking ($2000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/pentesterlab</id>
+    <link href="https://www.indiehackers.com/businesses/pentesterlab">
+    </link>
+    <updated>2016-11-11T02:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Louis Nyffenegger talks about making $2,000/mo with his side project by creating premium content and selling it to subscribers and businesses.]]>
+    </summary>
+    <author>
+      <name>Louis Nyffenegger</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[SMS Privacy - Anonymous Bitcoin Phone Numbers ($600/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/sms-privacy</id>
+    <link href="https://www.indiehackers.com/businesses/sms-privacy">
+    </link>
+    <updated>2016-11-10T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[James Stanley describes the challenges behind building, maintaining, and growing his anonymous SMS business to $600/mo in revenue.]]>
+    </summary>
+    <author>
+      <name>James Stanley</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Terminerinnerung - Appointment Reminder Service ($2000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/terminerinnerung</id>
+    <link href="https://www.indiehackers.com/businesses/terminerinnerung">
+    </link>
+    <updated>2016-11-09T23:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Michael Herrmann explains how he built an app that generates $2,000/mo in passive income by talking to customers and learning about their problems.]]>
+    </summary>
+    <author>
+      <name>Michael Herrmann</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Sidekiq - Open-Source Background Job Framework ($80000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/sidekiq</id>
+    <link href="https://www.indiehackers.com/businesses/sidekiq">
+    </link>
+    <updated>2016-11-06T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Mike Perham explains how charging money for pro features enabled him to quit his job and earn over $80,000/month from his open-source project, Sidekiq.]]>
+    </summary>
+    <author>
+      <name>Mike Perham</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[LabelGrid - Cloud Platform for Record Labels ($4600/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/labelgrid</id>
+    <link href="https://www.indiehackers.com/businesses/labelgrid">
+    </link>
+    <updated>2016-11-02T21:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Michael Ramirez explains how he turned a set of personal tools into an array of premium SaaS products for labels and artists that generates $4,600/mo.]]>
+    </summary>
+    <author>
+      <name>Michael Ramirez</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Pangoly - Build Your Shiny New PC ($1500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/pangoly</id>
+    <link href="https://www.indiehackers.com/businesses/pangoly">
+    </link>
+    <updated>2016-10-31T19:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Alberto Castelli talks about getting his side project to $1500/mo in revenue by listening to his users and focusing on the product.]]>
+    </summary>
+    <author>
+      <name>Alberto Castelli</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[feeder - RSS Feed Reader ($2800/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/feeder</id>
+    <link href="https://www.indiehackers.com/businesses/feeder">
+    </link>
+    <updated>2016-10-27T21:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Erik Rothoff Andersson breaks down the numbers behind feeder, his RSS feed reader that generates $3000/mo in revenue from over 500,000 users.]]>
+    </summary>
+    <author>
+      <name>Erik Rothoff Andersson</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[HumanPredictions - Tech Recruiting Tool ($17750/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/humanpredictions</id>
+    <link href="https://www.indiehackers.com/businesses/humanpredictions">
+    </link>
+    <updated>2016-10-26T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Elliott Garms explains how building a strong team with the right domain knowledge helped his recruiting tool hit $18,000/mo in its first year.]]>
+    </summary>
+    <author>
+      <name>Elliott Garms</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Old Geek Jobs - Tech Jobs for Ages 35+ ($1000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/old-geek-jobs</id>
+    <link href="https://www.indiehackers.com/businesses/old-geek-jobs">
+    </link>
+    <updated>2016-10-25T14:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[John Wheeler explains how serving an overlooked niche and building a following on Medium helped his tech job board make $1500 in its first month.]]>
+    </summary>
+    <author>
+      <name>John Wheeler</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[EDM Hunters - Music Discovery App ($1500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/edm-hunters</id>
+    <link href="https://www.indiehackers.com/businesses/edm-hunters">
+    </link>
+    <updated>2016-10-21T18:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jaskaran Rana explains how he overcame technical challenges, learned to code, and built an app he loves that generates $1500/mo in ad revenue.]]>
+    </summary>
+    <author>
+      <name>Jaskaran Rana</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[AeroLeads - Prospect Generation Software ($30000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/aeroleads</id>
+    <link href="https://www.indiehackers.com/businesses/aeroleads">
+    </link>
+    <updated>2016-10-20T07:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Pushkar Gaikwad talks about bootstrapping his business to $30,000/mo in revenue by identifying and helping to solve a difficult business problem: sales.]]>
+    </summary>
+    <author>
+      <name>Pushkar Gaikwad</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Hubstaff - Time Tracking Software ($130000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/hubstaff</id>
+    <link href="https://www.indiehackers.com/businesses/hubstaff">
+    </link>
+    <updated>2016-10-20T06:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Dave Nevogt explains the marketing, pricing, and development decisions that helped him grow his remote "lifestyle" business to $130,000/mo in revenue.]]>
+    </summary>
+    <author>
+      <name>Dave Nevogt</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Variacode - Software Boutique and Data Analysis ($30000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/variacode</id>
+    <link href="https://www.indiehackers.com/businesses/variacode">
+    </link>
+    <updated>2016-10-19T14:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Miguel Fuentes Buchholtz quit his job to start a business that now makes $30,000/mo from a combination of clients and SaaS products. Here's how.]]>
+    </summary>
+    <author>
+      <name>Miguel Fuentes Buchholtz</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Delim.co - Comma Delimiting Tool ($150/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/delim-co</id>
+    <link href="https://www.indiehackers.com/businesses/delim-co">
+    </link>
+    <updated>2016-10-19T13:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Adam Diehm explains how he reliably generates $150/mo from a simple tool he built to help people manage their data.]]>
+    </summary>
+    <author>
+      <name>Adam Diehm</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[SubmitHub - Music Submission Platform ($55000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/submithub</id>
+    <link href="https://www.indiehackers.com/businesses/submithub">
+    </link>
+    <updated>2016-10-13T11:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jason Grishkoff built a $55,000/mo SaaS business helping musicians promote their music, and he did it in under a year. Here's how.]]>
+    </summary>
+    <author>
+      <name>Jason Grishkoff</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Urlbox - Screenshots as a Service ($3500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/urlbox</id>
+    <link href="https://www.indiehackers.com/businesses/urlbox">
+    </link>
+    <updated>2016-10-13T10:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Chris Roebuck talks about the challenges behind building, launching, and marketing his SaaS business on its way to $3500/mo in revenue.]]>
+    </summary>
+    <author>
+      <name>Chris Roebuck</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[DnBRadio - Music & Audio Live Streaming and Podcasting ($1050/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/dnbradio</id>
+    <link href="https://www.indiehackers.com/businesses/dnbradio">
+    </link>
+    <updated>2016-10-13T02:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Michael Ramirez shares the story, strategy, and hardships behind keeping his side project alive and profitable for over 13 years.]]>
+    </summary>
+    <author>
+      <name>Michael Ramirez</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Slayary T-Shirts - Popup T-Shirt Company ($2100/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/slayary-tshirts</id>
+    <link href="https://www.indiehackers.com/businesses/slayary-tshirts">
+    </link>
+    <updated>2016-10-10T04:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Ernest Durbin shares the story behind the lightning campaign to launch his unconventional presidential t-shirt to hundreds of buyers and $2100/mo in sales.]]>
+    </summary>
+    <author>
+      <name>Ernest W. Durbin III</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Kapa99 - Unlimited Graphic Design ($10000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/kapa99</id>
+    <link href="https://www.indiehackers.com/businesses/kapa99">
+    </link>
+    <updated>2016-10-05T21:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Ka kei Ho talks about growing his business to $10,000/mo by developing an innovative business model and finding customers in online communities.]]>
+    </summary>
+    <author>
+      <name>Ka kei Ho</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[A Dark Room iOS - Indie Mobile Game ($7500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/a-dark-room</id>
+    <link href="https://www.indiehackers.com/businesses/a-dark-room">
+    </link>
+    <updated>2016-10-04T18:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Amir Rajan breaks down the revenue numbers and discusses building A Dark Room, his mobile game that hit #1 on the App Store and grossed over $800,000.]]>
+    </summary>
+    <author>
+      <name>Amir Rajan</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Rockin'Robin - Content Agency & Marketing Tools ($11500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/rockin-robin</id>
+    <link href="https://www.indiehackers.com/businesses/rockin-robin">
+    </link>
+    <updated>2016-10-03T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Alexander Lashkov talks about working 3 jobs to fund his business and employing clever lead generation strategies to grow revenue to $12,000/mo.]]>
+    </summary>
+    <author>
+      <name>Alexander Lashkov</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Quotient - Online Quoting & Proposal Software ($45000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/quotient</id>
+    <link href="https://www.indiehackers.com/businesses/quotient">
+    </link>
+    <updated>2016-10-03T06:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Dale Vink explains how he and his co-founder Nathan were able to grow their small in-house side project into a powerhouse business making $45,000/mo.]]>
+    </summary>
+    <author>
+      <name>Dale Vink</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Statbot - Analytics & Insights for Intercom ($6500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/statbot</id>
+    <link href="https://www.indiehackers.com/businesses/statbot">
+    </link>
+    <updated>2016-09-29T09:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Åke Brattberg explains how he bought a $100/mo business and grew it to $7,000/mo by talking to customers and focusing on the product.]]>
+    </summary>
+    <author>
+      <name>Åke Brattberg</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[WebdriverIO Online Course - E-course for WebdriverIO ($400/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/webdriverio-online-course</id>
+    <link href="https://www.indiehackers.com/businesses/webdriverio-online-course">
+    </link>
+    <updated>2016-09-29T05:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Kevin Lamping discusses his approach to creating, marketing, and launching his online course for WebdriverIO.]]>
+    </summary>
+    <author>
+      <name>Kevin Lamping</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Dealer Video Showroom - Automotive Video Marketing Platform ($25000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/dealer-video-showroom</id>
+    <link href="https://www.indiehackers.com/businesses/dealer-video-showroom">
+    </link>
+    <updated>2016-09-28T14:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Collin Davis shares the tech and marketing details behind turning an idea inside his company into a business generating $25,000/mo.]]>
+    </summary>
+    <author>
+      <name>Collin Davis</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[park.io - Domain Backorders for Hackers ($125000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/park-io</id>
+    <link href="https://www.indiehackers.com/businesses/park-io">
+    </link>
+    <updated>2016-09-22T21:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Mike Carson explains how automating tasks has helped him grow revenue to over $125,000 a month as the only employee at his company.]]>
+    </summary>
+    <author>
+      <name>Mike Carson</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Credible - Display Recent Sales on Your Site ($2500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/credible</id>
+    <link href="https://www.indiehackers.com/businesses/credible">
+    </link>
+    <updated>2016-09-22T16:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Dallin Koski explains how he created and distributed an app that ramped up to $2500/mo in less than a year, all without ever learning to code.]]>
+    </summary>
+    <author>
+      <name>Dallin Koski</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[jQuery Cards - jQuery Plugin Repository ($200/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/jquery-cards</id>
+    <link href="https://www.indiehackers.com/businesses/jquery-cards">
+    </link>
+    <updated>2016-09-22T15:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Aaron Lumsden talks about generating $200 a month from a small project he built to scratch his own itch while working as a consultant.]]>
+    </summary>
+    <author>
+      <name>Aaron Lumsden</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Stamp - Music Playlist Import/Export ($17000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/stamp</id>
+    <link href="https://www.indiehackers.com/businesses/stamp">
+    </link>
+    <updated>2016-09-21T16:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Bartosz Hernas talks about turning a small app he built for himself into a business that generates $17,000/month in under a year.]]>
+    </summary>
+    <author>
+      <name>Bartosz Hernas</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Face Juggler - First Automatic Face Swapping App ($18000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/face-juggler</id>
+    <link href="https://www.indiehackers.com/businesses/face-juggler">
+    </link>
+    <updated>2016-09-20T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Jonathan Plackett describes how he taught himself to code and made over $500,000 by building the world's first automatic face swapping app.]]>
+    </summary>
+    <author>
+      <name>Jonathan Plackett</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[onboardX - User Onboarding Tool ($600/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/onboard-x</id>
+    <link href="https://www.indiehackers.com/businesses/onboard-x">
+    </link>
+    <updated>2016-09-15T00:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Ciprian Dragoi explains how he's grown his new business' revenue to $600/mo by learning from the competition, validating his idea, and talking to users.]]>
+    </summary>
+    <author>
+      <name>Ciprian Dragoi</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[WhatSong - Film & TV Music Discovery App ($6000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/what-song</id>
+    <link href="https://www.indiehackers.com/businesses/what-song">
+    </link>
+    <updated>2016-09-13T21:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Tom Andrew discusses using SEO to grow his small programming project into a business that attracts 50,000 visitors a day and generates $6000 a month.]]>
+    </summary>
+    <author>
+      <name>Tom Andrew</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Box Factura - Invoice Reception Service ($1000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/box-factura</id>
+    <link href="https://www.indiehackers.com/businesses/box-factura">
+    </link>
+    <updated>2016-09-12T16:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Rafael Soto describes his short- and long-term marketing strategies in detail, and explains how he's grown revenue to $1000 a month by listening to customers.]]>
+    </summary>
+    <author>
+      <name>Rafael Soto</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Rest - Break Reminder with Coached Exercises ($150/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/rest</id>
+    <link href="https://www.indiehackers.com/businesses/rest">
+    </link>
+    <updated>2016-09-09T22:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Dino Angelov explains how he makes a few hundred dollars a month from a simple low-maintenance app that helps its users stay healthy.]]>
+    </summary>
+    <author>
+      <name>Dino Angelov</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Timing - Automatic Time Tracking for Mac ($2000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/timing</id>
+    <link href="https://www.indiehackers.com/businesses/timing">
+    </link>
+    <updated>2016-09-08T17:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Daniel Alm highlights the marketing techniques and distribution channels he's used to reliably generate $2000 a month from his time tracking app.]]>
+    </summary>
+    <author>
+      <name>Daniel Alm</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Ministry of Testing - Community for Software Testers ($80000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/ministry-of-testing</id>
+    <link href="https://www.indiehackers.com/businesses/ministry-of-testing">
+    </link>
+    <updated>2016-09-05T01:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Rosie Sherry explains how she built an $80,000/month business by listening to her audience and genuinely setting out help to her community.]]>
+    </summary>
+    <author>
+      <name>Rosie Sherry</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[ActionWins & ActionPages - Referral Marketing Tools ($4000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/action-pages</id>
+    <link href="https://www.indiehackers.com/businesses/action-pages">
+    </link>
+    <updated>2016-08-30T10:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Alex Kehaya talks about validating the market and reaching out to potential customers in order to grow his business to $4000/mo in revenue.]]>
+    </summary>
+    <author>
+      <name>Alex Kehaya</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Doorbell - In-App Feedback Tool ($3000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/doorbell</id>
+    <link href="https://www.indiehackers.com/businesses/doorbell">
+    </link>
+    <updated>2016-08-30T09:59:59Z</updated>
+    <summary type="html">
+      <![CDATA[Philip Manavopoulos reveals how he's worked nights and weekends to grow Doorbell to $2300/mo in revenue while still working his full-time job.]]>
+    </summary>
+    <author>
+      <name>Philip Manavopoulos</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[updown.io - Website Monitoring Service ($4000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/updown-io</id>
+    <link href="https://www.indiehackers.com/businesses/updown-io">
+    </link>
+    <updated>2016-08-29T18:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Adrien Jarthon discusses the marketing techniques, distribution channels, and pricing decisions involved in growing updown.io to $4000/mo.]]>
+    </summary>
+    <author>
+      <name>Adrien Jarthon</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[KeplerBot - Instagram Growth Tool ($2500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/kepler-bot</id>
+    <link href="https://www.indiehackers.com/businesses/kepler-bot">
+    </link>
+    <updated>2016-08-26T23:18:00Z</updated>
+    <summary type="html">
+      <![CDATA[Maxime Germain explains how he's able to bring in $3000 a month with his side project by providing obvious and measurable value to customers.]]>
+    </summary>
+    <author>
+      <name>Maxime Germain</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Storemapper - Store Locator SaaS ($21000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/storemapper</id>
+    <link href="https://www.indiehackers.com/businesses/storemapper">
+    </link>
+    <updated>2016-08-26T21:30:00Z</updated>
+    <summary type="html">
+      <![CDATA[Tyler Tringas explains how he grew Storemapper's revenue to $21000/mo by targeting the right niche and keeping churn low.]]>
+    </summary>
+    <author>
+      <name>Tyler Tringas</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Easy Stats for Basketball - Basketball Statistic Tracking ($100/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/easy-stats-for-basketball</id>
+    <link href="https://www.indiehackers.com/businesses/easy-stats-for-basketball">
+    </link>
+    <updated>2016-08-24T09:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Zach Prager discusses iterating and improving upon his mobile basketball stat tracking app that's now averaging $100 a month.]]>
+    </summary>
+    <author>
+      <name>Zach Prager</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[ConferenceBadge.com - Name Badges as a Service ($70000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/conference-badge</id>
+    <link href="https://www.indiehackers.com/businesses/conference-badge">
+    </link>
+    <updated>2016-08-23T09:00:01Z</updated>
+    <summary type="html">
+      <![CDATA[Philippe Lehoux explains how he was able to bootstrap a $70,000/mo business by solving his own problem and enlisting help from others.]]>
+    </summary>
+    <author>
+      <name>Philippe Lehoux</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Later for Reddit - Reddit Post Scheduler ($250/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/later-for-reddit</id>
+    <link href="https://www.indiehackers.com/businesses/later-for-reddit">
+    </link>
+    <updated>2016-08-23T09:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Adam Bard explains how he makes $250/mo from a simple tool he built for Reddit users in his spare time that crushes the competition in its niche.]]>
+    </summary>
+    <author>
+      <name>Adam Bard</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[SmartEdit for Word - Editing Software for Writers ($1600/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/smart-edit</id>
+    <link href="https://www.indiehackers.com/businesses/smart-edit">
+    </link>
+    <updated>2016-08-22T09:00:01Z</updated>
+    <summary type="html">
+      <![CDATA[Darren Devitt explains how his enthusiastic user base, focus on business value, and strong product vision led SmartEdit to generate $1600/mo.]]>
+    </summary>
+    <author>
+      <name>Darren Devitt</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[SMG Music Display - Music Sharing for Streams ($1200/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/smg-music-display</id>
+    <link href="https://www.indiehackers.com/businesses/smg-music-display">
+    </link>
+    <updated>2016-08-22T09:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[Martijn Brekelmans explains how he turned his popular free and open-source tool into a product that generates $1200 a month in revenue.]]>
+    </summary>
+    <author>
+      <name>Martijn Brekelmans</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Audio/Video Converter Android - Audio & Video Conversion App ($3000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/audio-video-converter-android</id>
+    <link href="https://www.indiehackers.com/businesses/audio-video-converter-android">
+    </link>
+    <updated>2016-08-18T19:56:17Z</updated>
+    <summary type="html">
+      <![CDATA[Sherry Yang reveals how she taught herself to code while simultaneously building a mobile app that generates over $3000 a month.]]>
+    </summary>
+    <author>
+      <name>Sherry Yang</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Appointment Reminder - Appointment Scheduler and Reminder ($11000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/appointment-reminder</id>
+    <link href="https://www.indiehackers.com/businesses/appointment-reminder">
+    </link>
+    <updated>2016-08-18T16:15:00Z</updated>
+    <summary type="html">
+      <![CDATA[Patrick McKenzie discusses growing Appointment Reminder to $12k/mo, and shares his wisdom around building profitable software businesses.]]>
+    </summary>
+    <author>
+      <name>Patrick McKenzie</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[RSVP Pro - WordPress Management Plugin ($700/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/rsvp-pro</id>
+    <link href="https://www.indiehackers.com/businesses/rsvp-pro">
+    </link>
+    <updated>2016-08-18T14:45:35Z</updated>
+    <summary type="html">
+      <![CDATA[Michael de Libero explains how he converted his free WordPress plugin into a freemium business that brings in $700 a month.]]>
+    </summary>
+    <author>
+      <name>Michael de Libero</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Amon - Server/App Monitoring Tool ($1500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/amon</id>
+    <link href="https://www.indiehackers.com/businesses/amon">
+    </link>
+    <updated>2016-08-17T15:19:44Z</updated>
+    <summary type="html">
+      <![CDATA[Martin Rusev explains how he was able to generate $1500/mo from his side project by scratching his own itch and solving a real problem.]]>
+    </summary>
+    <author>
+      <name>Martin Rusev</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Shogun - Drag-and-Drop Page Builder ($4500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/shogun</id>
+    <link href="https://www.indiehackers.com/businesses/shogun">
+    </link>
+    <updated>2016-08-16T15:19:43Z</updated>
+    <summary type="html">
+      <![CDATA[Finbarr Taylor talks about the challenges his team faced building and marketing a $4500/month business, and his goals for the future.]]>
+    </summary>
+    <author>
+      <name>Finbarr Taylor</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[SqlSmash - Productivity Plugin for SQL Server ($500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/sql-smash</id>
+    <link href="https://www.indiehackers.com/businesses/sql-smash">
+    </link>
+    <updated>2016-08-16T01:43:55Z</updated>
+    <summary type="html">
+      <![CDATA[Latish Sehgal discusses the lessons he learned building and iterating on a profitable side project while working a full-time job.]]>
+    </summary>
+    <author>
+      <name>Latish Sehgal</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[The Wub Machine - Music Remixing App ($300/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/the-wub-machine</id>
+    <link href="https://www.indiehackers.com/businesses/the-wub-machine">
+    </link>
+    <updated>2016-08-11T15:35:38Z</updated>
+    <summary type="html">
+      <![CDATA[Peter Sobot talks about skipping class and battling scaling issues to build popular music remixing app The Wub Machine.]]>
+    </summary>
+    <author>
+      <name>Peter Sobot</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Complice - Daily Planning App ($3000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/complice</id>
+    <link href="https://www.indiehackers.com/businesses/complice">
+    </link>
+    <updated>2016-08-10T21:31:25Z</updated>
+    <summary type="html">
+      <![CDATA[Malcolm Ocean talks about channeling his passion for productivity into a profitable business that had paying customers before it even had a product.]]>
+    </summary>
+    <author>
+      <name>Malcolm Ocean</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Webjay - Music Playlist Service ($400/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/webjay</id>
+    <link href="https://www.indiehackers.com/businesses/webjay">
+    </link>
+    <updated>2016-08-09T20:28:54Z</updated>
+    <summary type="html">
+      <![CDATA[Lucas Gonze explains how he was able to build and sell his project to Yahoo through laser focus and help from the community.]]>
+    </summary>
+    <author>
+      <name>Lucas Gonze</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Instapainting - Photo-to-Painting Service ($32000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/instapainting</id>
+    <link href="https://www.indiehackers.com/businesses/instapainting">
+    </link>
+    <updated>2016-08-08T23:21:42Z</updated>
+    <summary type="html">
+      <![CDATA[Chris Chen explains how he bounced back from dire financial circumstances by creating a website that did $1000/week in revenue from day one.]]>
+    </summary>
+    <author>
+      <name>Chris Chen</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[HR Partner - Human Resource Management ($0/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/hr-partner</id>
+    <link href="https://www.indiehackers.com/businesses/hr-partner">
+    </link>
+    <updated>2016-08-05T00:22:54Z</updated>
+    <summary type="html">
+      <![CDATA[Devan Sabaratnam talks about learning the ropes of building his own SaaS business after a long career in software consulting.]]>
+    </summary>
+    <author>
+      <name>Devan Sabaratnam</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Commando.io - Online Server Management ($2000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/commando-io</id>
+    <link href="https://www.indiehackers.com/businesses/commando-io">
+    </link>
+    <updated>2016-08-03T17:42:55Z</updated>
+    <summary type="html">
+      <![CDATA[Justin Keller talks sacrifice and risking it all to follow his dream as the solo founder of Commando.io.]]>
+    </summary>
+    <author>
+      <name>Justin Keller</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[FormCraft - Form Builder and Survey Tool ($13400/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/form-craft</id>
+    <link href="https://www.indiehackers.com/businesses/form-craft">
+    </link>
+    <updated>2016-08-03T09:39:17Z</updated>
+    <summary type="html">
+      <![CDATA[Nishant Agrawal talks about building a web app to pay his rent (and then some) while studying and working full-time.]]>
+    </summary>
+    <author>
+      <name>Nishant Agrawal</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Apex Ping - Uptime Monitoring Service ($2000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/apex-ping</id>
+    <link href="https://www.indiehackers.com/businesses/apex-ping">
+    </link>
+    <updated>2016-08-03T00:12:09Z</updated>
+    <summary type="html">
+      <![CDATA[TJ Holowaychuk talks about walking away from grueling 14-four workdays at a startup to invest in himself and build his own business.]]>
+    </summary>
+    <author>
+      <name>TJ Holowaychuk</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Trackin - Food Delivery Software ($166667/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/trackin</id>
+    <link href="https://www.indiehackers.com/businesses/trackin">
+    </link>
+    <updated>2016-07-26T03:15:43Z</updated>
+    <summary type="html">
+      <![CDATA[Bruno Didier discusses quitting his job and exhausting his savings to build an app that now makes over $2 million a year.]]>
+    </summary>
+    <author>
+      <name>Bruno Didier</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[TestingBot - Browser and Device Testing ($7500/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/testing-bot</id>
+    <link href="https://www.indiehackers.com/businesses/testing-bot">
+    </link>
+    <updated>2016-07-26T00:10:12Z</updated>
+    <summary type="html">
+      <![CDATA[Jochen talks about building a side project that solves a real problem and brings in almost $8k a month.]]>
+    </summary>
+    <author>
+      <name>Jochen</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[The Success Manual - All-In-One Skills Guide ($417/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/the-success-manual</id>
+    <link href="https://www.indiehackers.com/businesses/the-success-manual">
+    </link>
+    <updated>2016-07-25T23:17:12Z</updated>
+    <summary type="html">
+      <![CDATA[Parmit Singh discusses the highs and lows of making money on his own with content-based businesses.]]>
+    </summary>
+    <author>
+      <name>Parmit Singh</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Semantria - Scalable Sentiment Analysis API ($150000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/semantria</id>
+    <link href="https://www.indiehackers.com/businesses/semantria">
+    </link>
+    <updated>2016-07-25T22:22:48Z</updated>
+    <summary type="html">
+      <![CDATA[Oleg R tells all about how he built and sold a sentiment analysis API that generated $150k a month.]]>
+    </summary>
+    <author>
+      <name>Oleg R</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Nomad List - Community for Digital Nomads ($33000/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/nomad-list</id>
+    <link href="https://www.indiehackers.com/businesses/nomad-list">
+    </link>
+    <updated>2016-07-21T22:53:24Z</updated>
+    <summary type="html">
+      <![CDATA[Pieter Levels makes over $30k/month helping digital nomads find the best places to live and work remotely. Here's how.]]>
+    </summary>
+    <author>
+      <name>Pieter Levels</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Taskforce - Productivity Tool for Gmail ($1600/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/taskforce</id>
+    <link href="https://www.indiehackers.com/businesses/taskforce">
+    </link>
+    <updated>2016-07-21T22:50:24Z</updated>
+    <summary type="html">
+      <![CDATA[Courtland Allen discusses restoring an old productivity app to its former glory and generating a healthy monthly income to boot.]]>
+    </summary>
+    <author>
+      <name>Courtland Allen</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+  <entry>
+    <title type="html">
+      <![CDATA[Indie Hackers - Interviews with Entrepreneurs ($5531/mo)]]>
+    </title>
+    <id>https://www.indiehackers.com/businesses/indie-hackers</id>
+    <link href="https://www.indiehackers.com/businesses/indie-hackers">
+    </link>
+    <updated>2016-07-20T22:00:00Z</updated>
+    <author>
+      <name>Courtland Allen</name>
+    </author>
+    <contributor>
+      <name>Courtland Allen</name>
+      <email>courtland@indiehackers.com</email>
+      <uri>https://twitter.com/csallen</uri>
+    </contributor>
+  </entry>
+</feed>

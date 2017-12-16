@@ -80,7 +80,7 @@ namespace RssFeedParser
                 if (elements == null || !elements.Any()) return string.Empty;
 
                 // If no content for tag found return;
-                var ogImageMetaTag = elements.Where(x => x.Attributes.Any(a => a.Value== "og:image")).First();
+                var ogImageMetaTag = elements.Where(x => x.Attributes.Any(a => a.Value == "og:image")).First();
                 var ogImageContentTag = ogImageMetaTag.GetAttributeValue("content", null);
                 if (string.IsNullOrWhiteSpace(ogImageContentTag)) return string.Empty;
 
@@ -165,23 +165,25 @@ namespace RssFeedParser
         {
             var newArticle = new RssFeedArticle();
 
-            if (item.Elements().First(i => i.Name.LocalName == "title") != null)
+            var elements = item.Elements();
+
+            if (elements.First(i => i.Name.LocalName == "title") != null)
             {
                 newArticle.Title = item.Elements().First(i => i.Name.LocalName == "title").Value;
             }
 
-            if (item.Elements().First(i => i.Name.LocalName == "content") != null)
+            if (elements.FirstOrDefault(i => i.Name != null && i.Name.LocalName == "content") != null)
             {
                 newArticle.Content = item.Elements().First(i => i.Name.LocalName == "content").Value;
                 newArticle.Image = FindThumbnailForArticle(newArticle.Content);
             }
 
-            if (item.Elements().First(i => i.Name.LocalName == "link") != null && item.Elements().First(i => i.Name.LocalName == "link").Attribute("href") != null)
+            if (elements.FirstOrDefault(i => i.Name.LocalName == "link") != null && item.Elements().First(i => i.Name.LocalName == "link").Attribute("href") != null)
             {
                 newArticle.Link = item.Elements().First(i => i.Name.LocalName == "link").Attribute("href").Value;
             }
 
-            if (item.Elements().First(i => i.Name.LocalName == "published") != null)
+            if (elements.FirstOrDefault(i => i.Name.LocalName == "published") != null)
             {
                 newArticle.Published = ParsePublishedDate(item.Elements().First(i => i.Name.LocalName == "published").Value);
             }
