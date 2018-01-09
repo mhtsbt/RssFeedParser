@@ -36,6 +36,20 @@ namespace RssFeedParser.Test
             }
 
         }
+        [Fact]
+        public async void TestTweakersFeed()
+        {
+
+            var contents = File.ReadAllText(Path.Combine("ExampleFeeds", "Tweakers1.xml"));
+
+            XDocument doc = XDocument.Parse(contents);
+
+            var rssFeedParser = new FeedParser();
+            RssFeed feed = await rssFeedParser.ParseFeed(doc);
+
+            Assert.Equal(feed.Articles.Count, 40);         
+
+        }
 
         [Fact]
         public async void TestCNETFeed()

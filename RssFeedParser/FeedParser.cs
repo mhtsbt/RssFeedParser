@@ -55,42 +55,54 @@ namespace RssFeedParser
                 }
             }
 
-            foreach (var article in outputFeed.Articles.Where(x => string.IsNullOrEmpty(x.Image)))
+            try
             {
-                article.Image = await UseOgTagForArticleImage(article);
+
+                using (var client = new HttpClient())
+                {
+
+                    foreach (var article in outputFeed.Articles.Where(x => string.IsNullOrEmpty(x.Image)))
+                    {
+                        article.Image = await UseOgTagForArticleImage(client, article);
+                    }
+                }
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Failed to get additional images");
             }
 
             return outputFeed;
 
         }
 
-        private async Task<string> UseOgTagForArticleImage(RssFeedArticle article)
+        private async Task<string> UseOgTagForArticleImage(HttpClient client, RssFeedArticle article)
         {
-            using (var client = new HttpClient())
+
+            var articleResponse = await client.GetAsync(article.Link);
+            var html = await articleResponse.Content.ReadAsStringAsync();
+
+            var htmlDocument = new HtmlDocument();
+            htmlDocument.LoadHtml(html);
+
+            // If no og-image found just return;
+            var elements = htmlDocument.DocumentNode.SelectNodes("//meta[contains(@property, 'og:image')]");
+            if (elements == null || !elements.Any()) return string.Empty;
+
+            // If no content for tag found return;
+            var ogImageMetaTag = elements.Where(x => x.Attributes.Any(a => a.Value == "og:image")).First();
+            var ogImageContentTag = ogImageMetaTag.GetAttributeValue("content", null);
+            if (string.IsNullOrWhiteSpace(ogImageContentTag)) return string.Empty;
+
+            // If not a valid url just return null
+            Uri mediaUrl;
+            if (!Uri.TryCreate(ogImageContentTag, UriKind.RelativeOrAbsolute, out mediaUrl))
             {
-
-                var articleResponse = await client.GetAsync(article.Link);
-                var html = await articleResponse.Content.ReadAsStringAsync();
-
-                var htmlDocument = new HtmlDocument();
-                htmlDocument.LoadHtml(html);
-
-                // If no og-image found just return;
-                var elements = htmlDocument.DocumentNode.SelectNodes("//meta[contains(@property, 'og:image')]");
-                if (elements == null || !elements.Any()) return string.Empty;
-
-                // If no content for tag found return;
-                var ogImageMetaTag = elements.Where(x => x.Attributes.Any(a => a.Value == "og:image")).First();
-                var ogImageContentTag = ogImageMetaTag.GetAttributeValue("content", null);
-                if (string.IsNullOrWhiteSpace(ogImageContentTag)) return string.Empty;
-
-                // If not a valid url just return null
-                Uri mediaUrl;
-                if (!Uri.TryCreate(ogImageContentTag, UriKind.RelativeOrAbsolute, out mediaUrl)) return string.Empty;
-
-                return mediaUrl.ToString();
-
+                return string.Empty;
             }
+
+            return mediaUrl.ToString();
+
         }
 
         private FeedTypes DetermineFeedType(XDocument doc)
