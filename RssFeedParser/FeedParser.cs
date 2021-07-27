@@ -170,6 +170,23 @@ namespace RssFeedParser
 
             }
 
+            if (item.Elements("enclosure") != null)
+            {
+                foreach (var enclosure in item.Elements("enclosure"))
+                {
+                    var type = enclosure.Attribute("type")?.Value;
+                    var url = enclosure.Attribute("url")?.Value;
+                    long.TryParse(enclosure.Attribute("length")?.Value, out long length);
+
+                    newArticle.Enclosures.Add(new RssFeedArticleEnclosure()
+                    {
+                        Length = length,
+                        Type = type,
+                        Url = url
+                    });
+                }
+            }
+
             return newArticle;
         }
 
