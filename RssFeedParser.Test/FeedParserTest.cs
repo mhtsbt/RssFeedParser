@@ -5,6 +5,7 @@ using Xunit;
 using System;
 using System.Xml;
 using System.Xml.Linq;
+using System.Threading.Tasks;
 
 namespace RssFeedParser.Test
 {
@@ -133,6 +134,31 @@ namespace RssFeedParser.Test
             //RssFeed feed = parser.ParseFeed(feedUrl);
 
             //Assert.Equal(feed.Articles.Count, items.Count());
+        }
+
+        [Fact]
+        public async Task FeedParserExtractsEnclosures()
+        {
+            var contents = File.ReadAllText(Path.Combine("ExampleFeeds", "PodcastWithAudio.xml"));
+
+            XDocument doc = XDocument.Parse(contents);
+
+            var rssFeedParser = new FeedParser();
+            RssFeed feed = await rssFeedParser.ParseFeed(doc);
+
+            Assert.Equal(2, feed.Articles.Count);
+            
+            // each article should contain at least one enclosure
+            foreach(var article in feed.Articles)
+            {
+                Assert.Equal(1, article.Enclosures.Count);
+
+                var enclosure = article.Enclosures[0];
+                Assert.Equal("audio/mpeg", enclosure.Type);
+                Assert.Equal(1024, enclosure.Length);
+                Assert.StartsWith("https://example.org/episodes/download/", enclosure.Url);
+            }
+
         }
 
     }

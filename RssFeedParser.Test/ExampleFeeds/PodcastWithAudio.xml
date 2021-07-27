@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"  xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<title>An Example Podcast Feed</title>
+		<pubDate>Wed, 14 Apr 2021 20:00:00 +0000</pubDate>
+		<lastBuildDate>Wed, 14 Apr 2021 20:00:00 +0000</lastBuildDate>
+		<generator>Test Generator</generator>
+		<link>http://example.org</link>
+		<language>en-US</language>
+		<copyright><![CDATA[]]></copyright>
+		<docs>http://example.org</docs>
+		<managingEditor>nobody@exampkle.org</managingEditor>
+		<image>
+			<url>http://example.org/image.jpg</url>
+			<title>Example Podcast Logo</title>
+			<link><![CDATA[]]></link>
+		</image>
+		<description><![CDATA[This is a test feed created for test purposes. There is no real content.]]></description>
+		<item>
+			<title>Episode 01</title>
+			<pubDate>Mon, 26 Jul 2021 20:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3cdfa57a-c422-4013-9811-600b248d326c]]></guid>
+			<link><![CDATA[https://example.org/episode-01]]></link>
+			<description><![CDATA[<p>Plain text description of the episode goes here.</p>]]></description>
+			<content:encoded><![CDATA[<p>Html encoded description of the episode goes here.</p>]]></content:encoded>
+			<enclosure length="1024" type="audio/mpeg" url="https://example.org/episodes/download/01" />
+		</item>
+		<item>
+			<title>Episode 02</title>
+			<pubDate>Tue, 27 Jul 2021 20:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9dbfd642-dd37-4c45-9645-d0ece4f5522f]]></guid>
+			<link><![CDATA[https://example.org/episode-01]]></link>
+			<description><![CDATA[<p>Plain text description of the episode goes here.</p>]]></description>
+			<content:encoded><![CDATA[<p>Html encoded description of the episode goes here.</p>]]></content:encoded>
+			<enclosure length="1024" type="audio/mpeg" url="https://example.org/episodes/download/02" />
+		</item>
+	</channel>
+</rss>

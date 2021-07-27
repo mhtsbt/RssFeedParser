@@ -9,6 +9,7 @@ namespace RssFeedParser.Models
         public RssFeedArticle()
         {
             Categories = new List<RssFeedArticleCategory>();
+            Enclosures = new List<RssFeedArticleEnclosure>();
         }
 
         public string Title { get; set; }
@@ -17,6 +18,6 @@ namespace RssFeedParser.Models
         public string Image { get; set; }
         public DateTime Published { get; set; }
         public List<RssFeedArticleCategory> Categories { get; set; }
-
+        public List<RssFeedArticleEnclosure> Enclosures { get; set; }
     }
 }
