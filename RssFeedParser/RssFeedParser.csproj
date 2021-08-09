@@ -3,6 +3,13 @@
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
         <Version>1.1.0</Version>
+        <Authors>mhtsbt, DiegoG1014</Authors>
+        <Description>A simple parser for RSS Feeds</Description>
+        <Company>Open Source</Company>
+        <PackageProjectUrl>https://github.com/mhtsbt/RssFeedParser</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/mhtsbt/RssFeedParser</RepositoryUrl>
+        <RepositoryType>Git</RepositoryType>
+        <PackageTags>Rss, Feed, RssFeed, Atom, AtomFeed</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>
