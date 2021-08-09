@@ -21,46 +21,46 @@ namespace RssFeedParser
             return await ParseFeed(XDocument.Load(stream));
         }
 
-        public async Task<RssFeed> ParseFeed(XDocument doc)
-        {
-            var outputFeed = new RssFeed();
-            var type = DetermineFeedType(doc);
-
-            XElement root = doc.Root;
-
-            if (type is FeedTypes.RSS)
+        public Task<RssFeed> ParseFeed(XDocument doc)
+            => Task.Run(async () =>
             {
-                var items = root.Element("channel").Elements("item");
+                var outputFeed = new RssFeed();
+                var type = DetermineFeedType(doc);
 
-                if (items != null)
-                    foreach (XElement item in items)
-                        outputFeed.Articles.Add(ParseRSSArticle(item));
-            }
-            else
-            {
-                var items = doc.Elements().First().Elements().Where(e => e.Name.LocalName == "entry");
+                XElement root = doc.Root;
 
-                if (items != null)
-                    foreach (XElement item in items)
-                        outputFeed.Articles.Add(ParseAtomArticle(item));
-            }
+                if (type is FeedTypes.RSS)
+                {
+                    var items = root.Element("channel").Elements("item");
 
-            try
-            {
+                    if (items != null)
+                        foreach (XElement item in items)
+                            outputFeed.Articles.Add(ParseRSSArticle(item));
+                }
+                else
+                {
+                    var items = doc.Elements().First().Elements().Where(e => e.Name.LocalName == "entry");
 
-                using var client = new HttpClient();
+                    if (items != null)
+                        foreach (XElement item in items)
+                            outputFeed.Articles.Add(ParseAtomArticle(item));
+                }
 
-                foreach (var article in outputFeed.Articles.Where(x => string.IsNullOrEmpty(x.Image)))
-                    article.Image = await UseOgTagForArticleImage(client, article);
-            }
-            catch (Exception)
-            {
-                Console.WriteLine("Failed to get additional images");
-            }
+                try
+                {
 
-            return outputFeed;
+                    using var client = new HttpClient();
 
-        }
+                    foreach (var article in outputFeed.Articles.Where(x => string.IsNullOrEmpty(x.Image)))
+                        article.Image = await UseOgTagForArticleImage(client, article);
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Failed to get additional images");
+                }
+
+                return outputFeed;
+            });
 
         private async Task<string> UseOgTagForArticleImage(HttpClient client, RssFeedArticle article)
         {
