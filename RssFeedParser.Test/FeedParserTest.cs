@@ -25,7 +25,7 @@ namespace RssFeedParser.Test
             var rssFeedParser = new FeedParser();
             RssFeed feed = await rssFeedParser.ParseFeed(doc);
 
-            Assert.Equal(feed.Articles.Count, 30);
+            Assert.Equal(30, feed.Articles.Count);
 
             foreach (var article in feed.Articles)
             {
@@ -36,6 +36,7 @@ namespace RssFeedParser.Test
             }
 
         }
+
         [Fact]
         public async void TestTweakersFeed()
         {
