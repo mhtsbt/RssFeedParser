@@ -40,7 +40,6 @@ namespace RssFeedParser.Test
         [Fact]
         public async void TestTweakersFeed()
         {
-
             var contents = File.ReadAllText(Path.Combine("ExampleFeeds", "Tweakers1.xml"));
 
             XDocument doc = XDocument.Parse(contents);
@@ -48,8 +47,7 @@ namespace RssFeedParser.Test
             var rssFeedParser = new FeedParser();
             RssFeed feed = await rssFeedParser.ParseFeed(doc);
 
-            Assert.Equal(feed.Articles.Count, 40);         
-
+            Assert.Equal(40, feed.Articles.Count);         
         }
 
         [Fact]
@@ -63,7 +61,7 @@ namespace RssFeedParser.Test
             var rssFeedParser = new FeedParser();
             RssFeed feed = await rssFeedParser.ParseFeed(doc);
 
-            Assert.Equal(feed.Articles.Count, 25);
+            Assert.Equal(25, feed.Articles.Count);
 
             foreach (var article in feed.Articles)
             {
@@ -86,14 +84,10 @@ namespace RssFeedParser.Test
             var rssFeedParser = new FeedParser();
             RssFeed feed = await rssFeedParser.ParseFeed(doc);
 
-            Assert.Equal(feed.Articles.Count, 99);
+            Assert.Equal(99, feed.Articles.Count);
 
             foreach (var article in feed.Articles)
-            {
                 Assert.False(string.IsNullOrEmpty(article.Image));
-
-            }
-
         }
 
         [Fact]
@@ -107,20 +101,19 @@ namespace RssFeedParser.Test
             var rssFeedParser = new FeedParser();
             RssFeed feed = await rssFeedParser.ParseFeed(doc);
 
-            Assert.Equal(feed.Articles.Count, 235);
+            Assert.Equal(235, feed.Articles.Count);
         }
 
         [Fact]
         public void FeedParserShouldParseArticles()
         {
+            //var feed = "http://feeds.feedburner.com/ChefSteps";
 
-            var feed = "http://feeds.feedburner.com/ChefSteps";
-
-            var rssFeedParser = new FeedParser();
-            var articles = rssFeedParser.ParseFeed(feed);
+            //var rssFeedParser = new FeedParser();
+            //var articles = rssFeedParser.ParseFeed(feed);
 
 
-            string feedUrl = "http://uk.businessinsider.com/rss";
+            //string feedUrl = "http://uk.businessinsider.com/rss";
             //  string feedUrl = "http://coffeegeek.com/rss";
 
             //var parser = new FeedParser();
