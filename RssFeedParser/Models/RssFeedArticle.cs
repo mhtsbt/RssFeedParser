@@ -17,6 +17,5 @@ namespace RssFeedParser.Models
         public string Image { get; set; }
         public DateTime Published { get; set; }
         public List<RssFeedArticleCategory> Categories { get; set; }
-
     }
 }
